@@ -1,0 +1,641 @@
+name,type,organization,access,description
+ToyMix,dataset,Mila-Quebec AI Institute,open,ToyMix is the smallest dataset of three extensive and meticulously curated multi-label datasets that cover nearly 100 million molecules and over 3000 sparsely defined tasks.
+LargeMix,dataset,Mila-Quebec AI Institute,open,LargeMix is the middle-sized dataset of three extensive and meticulously curated multi-label datasets that cover nearly 100 million molecules and over 3000 sparsely defined tasks.
+UltraLarge,dataset,Mila-Quebec AI Institute,open,UltraLarge is the largest dataset of three extensive and meticulously curated multi-label datasets that cover nearly 100 million molecules and over 3000 sparsely defined tasks.
+Lag-LLaMA,model,"Morgan Stanley, ServiceNow Research, University of Montreal, Mila-Quebec AI Institute",open,Lag-LLaMA is a general-purpose foundation model for univariate probabilistic time series forecasting based on a decoder-only transformer architecture that uses lags as covariates.
+Prithvi,model,IBM,open,"Prithvi is a first-of-its-kind temporal Vision transformer pre-trained by the IBM and NASA team on contiguous US Harmonised Landsat Sentinel 2 (HLS) data. The model adopts a self-supervised encoder developed with a ViT architecture and Masked AutoEncoder (MAE) learning strategy, with an MSE loss function."
+Watsonx.ai,application,IBM,limited,"Watsonx.ai is part of the IBM watsonx platform that brings together new generative AI capabilities, powered by foundation models and traditional machine learning into a powerful studio spanning the AI lifecycle."
+Granite,model,IBM,limited,Granite is a set of multi-size foundation models that apply generative AI to both language and code.
+Animagine XL 3.1,model,Cagliostro Research Lab,open,"An open-source, anime-themed text-to-image model enhanced to generate higher quality anime-style images with a broader range of characters from well-known anime series, an optimized dataset, and new aesthetic tags for better image creation."
+Portkey,application,Portkey,open,Portkey is a hosted middleware that allows users to create generative AI applications
+Viable,application,Viable,limited,"Viable analyzes qualitative consumer feedback and provides summary feedback to companies.
+"
+Auto-GPT,application,Auto-GPT,open,Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model.
+Bark,model,Suno,open,Bark is a text-to-audio model that can generate multilingual speech as well as other noises.
+ChatGPT powered by OBO,application,HubSpot,limited,"Give your sales, marketing, and customer service teams one of the most powerful AI tools available - ChatGPT priority access, no timeout limits, company wide access managed through a single account, incorporate into your existing processes without leaving HubSpot"
+GPT-JT,model,Together,open,nan
+GPT-NeoXT-Chat-Base,model,Together,open,nan
+OpenChatKit moderation model,model,Together,open,nan
+OIG-43M,dataset,"Together, LAION, Ontocord",open,nan
+OIG-moderation,dataset,"Together, LAION, Ontocord",open,nan
+RedPajama-Data,dataset,Together,open,The RedPajama base dataset is a 1.2 trillion token fully-open dataset created by following the recipe described in the LLaMA paper
+Llama-2-7B-32K-Instruct,model,Together,open,"Llama-2-7B-32K-Instruct is an open-source, long-context chat model finetuned from Llama-2-7B-32K, over high-quality instruction and chat data."
+RedPajama-Data-v2,dataset,Together,open,"RedPajama-Data-v2 is a new version of the RedPajama dataset, with 30 trillion filtered and deduplicated tokens (100+ trillions raw) from 84 CommonCrawl dumps covering 5 languages, along with 40+ pre-computed data quality annotations that can be used for further filtering and weighting."
+StripedHyena,model,Together,open,"StripedHyena is an LLM and the first alternative model competitive with the best open-source Transformers in short and long-context evaluations, according to Together."
+StripedHyena Nous,model,Together,open,"StripedHyena Nous is an LLM and chatbot, along with the first alternative model competitive with the best open-source Transformers in short and long-context evaluations, according to Together."
+MediTron,model,"EPFL, Idiap Research Institute, OpenAssistant, Yale",open,Meditron is a large-scale medical LLM that remains open-source.
+XVERSE,model,Xverse,open,XVERSE is a multilingual large language model for over 40 languages.
+Otter,model,Nanyang Technological University,open,"Otter is a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind’s Flamingo), trained on MIMIC-IT and showcasing improved instruction-following ability and in-context learning."
+EXMODD,dataset,Beijing Institute of Technology,open,EXMODD (Explanatory Multimodal Open-Domain Dialogue dataset) is a dataset built off the proposed MDCF (Multimodal Data Construction Framework).
+MiniMA,model,Beijing Institute of Technology,open,MiniMA is a smaller finetuned Llama 2 model adapted for Chinese.
+ChatGLM,model,ChatGLM,open,"ChatGLM is a Chinese-English language model with question and answer and dialogue functions, and is aimed at a Chinese audience."
+OpenFold,model,Columbia,open,OpenFold is an open source recreation of AlphaFold2.
+Ferret,model,"Columbia, Apple AI",open,Ferret is a Multimodal Large Language Model (MLLM) capable of understanding spatial referring of any shape or granularity within an image and accurately grounding open-vocabulary descriptions.
+Guanaco,model,University of Washington,open,"Guanaco is a model family trained with QLORA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance."
+Llark,model,"University of Washington, Spotify",open,Llark is an instruction-tuned multimodal model for music understanding.
+InternLM,model,InternLM,open,"InternLM is an LLM pre-trained on over 2.3T Tokens containing high-quality English, Chinese, and code data."
+BioMistral,model,"Avignon University, Nantes University",open,"BioMistral is an open-source Large Language Model tailored for the biomedical domain, utilizing Mistral as its foundation model and further pre-trained on PubMed Central."
+Khanmigo,application,Khan Academy,limited,An AI-powered assistant that functions as both a virtual tutor for students and a classroom assistant for teachers.
+GAIA-1,model,Wayve,closed,"GAIA-1 (‘Generative AI for Autonomy’) is a generative world model that leverages video, text, and action inputs to generate realistic driving scenarios while offering fine-grained control over ego-vehicle behavior and scene features."
+GreenBit LLaMA,model,GreenBit AI,open,GreenBit LLaMA is a series of fine-tuned LLaMA models.
+Ocean-1,model,Cresta,closed,Ocean-1 is the culmination of Cresta's experience in deploying generative AI systems for large enterprises and signifies their latest milestone in advancing the cutting edge AI technology for customer facing conversations.
+Aurora-M,model,"Tokyo Institute of Technology, MIT-IBM Watson Lab, Sapienza University of Rome",open,"Aurora-M is a 15B parameter multilingual open-source model trained on English, Finnish, Hindi, Japanese, Vietnamese, and code."
+CodeParrot,model,HuggingFace,open,CodeParrot is an autoregressive language model trained on code
+Zephyr,model,HuggingFace,open,Zephyr is a series of language models that are trained to act as helpful assistants.
+IDEFICS,model,HuggingFace,open,"IDEFICS is an open-access visual language model, based on Flamingo."
+OBELICS,dataset,HuggingFace,open,OBELICS is a dataset consisting of 141 million interleaved image-text documents scraped from the web and contains 353 million images.
+FinGPT,model,"University of Turku, HuggingFace, National Library of Finland",open,FinGPT is a series of Finnish LLMs trained from scratch.
+BLUUMI,model,"University of Turku, HuggingFace, National Library of Finland",open,BLUUMI is a multilingual fine-tuned version of BLOOM.
+Cosmopedia v0.1,dataset,Hugging Face,open,"Cosmopedia is a dataset of synthetic textbooks, blogposts, stories, posts, and WikiHow articles generated by Mixtral-8x7B-Instruct-v0.1. The dataset contains over 30 million files and 25 billion tokens, making it the largest open synthetic dataset to date. It covers a variety of topics, mapping worldwide knowledge from Web datasets like RefinedWeb and RedPajama, to generate synthetic content."
+Idefics2,model,Hugging Face,open,"Idefics2 is a general multimodal model that takes as input arbitrary sequences of text and images, generating text responses. It has the capability to describe visual content, answer questions about images, perform basic arithmetic operations, create stories grounded in multiple images, and extract information from documents."
+The Cauldron,dataset,Hugging Face,open,The Cauldron is an open compilation of 50 manually-curated datasets formatted for multi-turn conversations.
+DeepFloyd IF,model,Stability AI,open,A text-to-image cascaded pixel diffusion model released in conjunction with AI research lab DeepFloyd.
+StableLM,model,Stability AI,open,Large language models trained on up to 1.5 trillion tokens.
+Stable Diffusion,application,Stability AI,open,Stable Diffusion is a generative software that creates images from text prompts.
+Stable Diffusion XL,application,Stability AI,open,"Stable Diffusion XL is an updated version of Stable Diffusion, and creates descriptive images with shorter prompts and generate words within images."
+Stable Video Diffusion,model,Stability AI,limited,Stable Video Diffusion is a latent diffusion model trained to generate short video clips from an image conditioning.
+Large Video Dataset,dataset,Stability AI,closed,"Large Video Dataset is the dataset that trained Stable Video Diffusion, consisting of over 212 years of content."
+Sky Replacer,application,Stability AI,open,Sky Replacer is an exciting new tool that allows users to replace the color and aesthetic of the sky in their original photos with a selection of nine alternatives to improve the overall look and feel of the image.
+StableLM 2,model,Stability AI,open,"StableLM 2 is a state-of-the-art 1.6 billion parameter small language model trained on multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch."
+Stable Cascade,model,Stability AI,open,"Stable Cascade is built upon the Würstchen architecture and its main difference to other models, like Stable Diffusion, is that it is working at a much smaller latent space."
+Stable Video 3D,model,Stability AI,open,"Stable Video 3D (SV3D) is a generative model based on Stable Video Diffusion that takes in a still image of an object as a conditioning frame, and generates an orbital video of that object."
+Stable Audio 2.0,model,Stability AI,open,"Stable Audio 2.0 sets a new standard in AI-generated audio, producing high-quality, full tracks with coherent musical structure up to three minutes in length at 44.1kHz stereo."
+Reka Flash,model,Reka,limited,"Reka Flash is a multimodal, multilingual, state-of-the-art 21B model trained entirely from scratch."
+Reka Core,model,Reka,limited,"Reka Core is a frontier-class multimodal language model comparable to industry leaders. It has powerful capabilities including multimodal understanding (including images, videos, and audio), superb reasoning abilities, code generation, and multilinguality with proficiency in 32 languages."
+FuseChat,model,FuseAI,open,FuseChat is a powerful chat Language Learning Model (LLM) that integrates multiple structure and scale-varied chat LLMs using a fuse-then-merge strategy. The fusion is done using two stages
+MoMo,model,Moreh,open,MoMo is a large language model fine-tuned from Qwen.
+Mistral,model,Mistral AI,open,Mistral is a compact language model.
+Mistral Large,model,Mistral AI,limited,Mistral Large is Mistral AI’s new cutting-edge text generation model.
+Le Chat,application,Mistral AI,limited,Le Chat is a first demonstration of what can be built with Mistral models and what can deployed in the business environment.
+Reexpress One,application,Reexpress AI,limited,"Reexpress One offers a means of document classification, semantic search, and uncertainty analysis on-device."
+Dolphin 2.2 Yi,model,Cognitive Computations,open,Dolphin 2.2 Yi is an LLM based off Yi.
+WizardLM Uncensored,model,Cognitive Computations,open,WizardLM Uncensored is WizardLM trained with a subset of the dataset - responses that contained alignment / moralizing were removed.
+DuckAssist,application,DuckDuckGo,open,The first Instant Answer in DuckDuckGo search results to use natural language technology to generate answers to search queries using Wikipedia and other related sources
+Perplexity Ask,application,Perplexity,open,Perplexity Ask is a new search interface that uses advanced artificial intelligence technologies
+Bird SQL,application,Perplexity,closed,Twitter search interface that is powered by Perplexity's structured search engine.
+Perplexity Chat,application,Perplexity,open,Perplexity chat is an AI chatbot trained in-house by Perplexity.
+Vulture,model,Virtual Interactive,open,Vulture is a further fine-tuned causal Decoder-only LLM built by Virtual Interactive (VILM) on top of Falcon.
+DeciLM,model,Deci,open,DeciLM is a LLM that on release ranks as the fastest and most accurate model of its size.
+The Pile,dataset,EleutherAI,open,"A large language model training dataset, used to train GPT-NeoX-20B.
+"
+GPT-J,model,EleutherAI,open,GPT-J is an open-source autoregressive language model.
+GPT-Neo,model,EleutherAI,open,nan
+GPT-NeoX,model,EleutherAI,open,"GPT-NeoX (20B) is an open-sourced autoregressive language model.
+"
+GooseAI API,application,GooseAI,limited,"GooseAI API is an API service providing access to NLP services.
+"
+VQGAN-CLIP,model,EleutherAI,open,VQGAN-CLIP is a model that better generates and edits images using a multimodal encoder to guide image generation.
+Pythia,model,Eleuther AI,open,A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters
+Llemma,model,"Princeton University, Eleuther AI",open,Llemma is a large language model for mathematics.
+Proof Pile 2,dataset,"Princeton University, Eleuther AI",open,Proof Pile 2 is a corpus for language modeling of mathematics.
+Pile-T5,model,EleutherAI,open,"Pile-T5 is a version of the broadly used T5 model, but improved to eliminate weaknesses such as the omission of crucial code-related tokens. It utilizes LLaMA tokenizer and is trained on the Pile, offering enhancements for finetuning on downstream tasks, particularly those involving code."
+Virtual Volunteer,application,Be My Eyes,limited,The first-ever digital visual assistant powered by OpenAI’s new GPT-4 language model.
+CodeGeeX,model,Tsinghua University,limited,CodeGeeX is an autoregressive language model trained on code
+CogView,model,Tsinghua University,open,CogView is a transformer model for text-to-image generation
+CogView 2,model,Tsinghua University,open,CogView 2 is a hierarchical transformer for text-to-image generation
+CogVideo,model,Tsinghua University,open,CogVideo is a transformer model for text-to-video generation
+GLM-130B,model,Tsinghua University,open,GLM-130B is a bidirectional language model trained on English and Chinese
+CogVLM,model,"Zhipu AI, Tsinghua University",open,CogVLM is a powerful open-source visual language foundation model
+UltraLM,model,Tsinghua University,open,UltraLM is a series of chat language models trained on UltraChat.
+UltraChat,dataset,Tsinghua University,open,"UltraChat is an open-source, large-scale, and multi-round dialogue data powered by Turbo APIs."
+PolyCoder,model,Carnegie Mellon University,open,"PolyCoder is a code model trained on 2.7B parameters based on the GPT-2 architecture, which was trained on 249GB of code across 12 programming languages on a single machine."
+Moment,model,"Carnegie Mellon University, University of Pennsylvania",open,Moment is a family of open-source foundation models for general-purpose time-series analysis.
+OpenAssistant LLaMA 2,model,OpenAssistant,open,OpenAssistant LLaMA 2 is an Open-Assistant fine-tuning of Meta's LLaMA 2.
+Inflection-1,model,Inflection AI,limited,Inflection AI's first version of its in-house LLM. via Inflection AI's conversational API.
+Pi,application,Inflection AI,limited,Personal AI chatbot designed to be conversational and specialized in emotional intelligence.
+Inflection-2,model,Inflection AI,closed,"Inflection-2 is the best model in the world for its compute class and the second most capable LLM in the world, according to benchmark evaluation, as of its release."
+Inflection-2.5,model,Inflection AI,limited,"Inflection-2.5 is an upgraded in-house model that is competitive with all the world's leading LLMs, as of release, like GPT-4 and Gemini."
+RWKV World 4,model,RWKV,open,"RWKV World 4 is an RNN with GPT-level LLM performance, which can also be directly trained like a GPT transformer (parallelizable)."
+RWKV 4 Pile,model,RWKV,open,"RWKV 4 Pile is an RNN with GPT-level LLM performance, which can also be directly trained like a GPT transformer (parallelizable)."
+RWKV World 5,model,RWKV,open,"RWKV World 5 is an RNN with GPT-level LLM performance, which can also be directly trained like a GPT transformer (parallelizable)."
+ERNIE 3.0 Titan,model,"Baidu, PengCheng Laboratory",closed,ERNIE 3.0 Titan is a language model
+ERNIE-ViLG,model,Baidu,limited,ERNIE-ViLG is a model for text-to-image generation
+ERNIE-ViLG 2.0,model,Baidu,closed,ERNIE-ViLG is a model for text-to-image generation
+ERNIE 4.0,model,Baidu,limited,ERNIE-4.0 is a multimodal generalist foundation model.
+Q-Chat,application,Quizlet,open,"Quizlet is introducing Q-Chat, a fully-adaptive AI tutor that engages students with adaptive questions based on relevant study materials delivered through a fun chat experience."
+Bedrock,application,Amazon,limited,"Bedrock is a new service that makes FMs from AI21 Labs, Anthropic, Stability AI, and Amazon accessible via an API. Bedrock is intended for customers to build and scale generative AI-based applications using FMs, democratizing access for all builders. using an API."
+FalconLite2,model,Amazon,open,"FalconLite2 is a fine-tuned and quantized Falcon language model, capable of processing long (up to 24K tokens) input sequences."
+Chronos,model,Amazon,open,"Chronos is a family of pretrained time series forecasting models based on language model architectures. A time series is transformed into a sequence of tokens via scaling and quantization, and a language model is trained on these tokens using the cross-entropy loss. Once trained, probabilistic forecasts are obtained by sampling multiple future trajectories given the historical context."
+Prism,model,Toyota Research Institute,open,Prism is a family of VLMs trained using new analyses about key vision design axes.
+InternVideo,model,Shanghai AI Laboratory,open,nan
+Lego-MT,model,Shanghai AI Laboratory,open,Lego-MT is a multilingual large language model which uses a more efficient approach of being an effective detachable model.
+MathCoder,model,Shanghai AI Laboratory,open,MathCoder is a family of models capable of generating code-based solutions for solving challenging math problems.
+InternLM,model,Shanghai AI Laboratory,open,"InternLM is a high-quality language model proficient in English, Chinese, and code."
+InternVideo2,model,"Shanghai AI Laboratory, Nanjing University, Zhejiang University",open,"InternVideo2 is a new video foundation model (ViFM) that achieves the state-of-the-art performance in action recognition, video-text tasks, and video-centric dialogue."
+CosmicMan,model,Shanghai AI Laboratory,open,"CosmicMan is a text-to-image foundation model specialized for generating high-fidelity human images with meticulous appearance, reasonable structure, and precise text-image alignment."
+CosmicMan-HQ 1.0,dataset,Shanghai AI Laboratory,open,"CosmicMan-HQ 1.0 is a large-scale dataset with 6 million high-quality, real-world human images."
+Nucleus,model,Nucleus.AI,open,Nucleus is a 22B parameters causal decoder-only model built by Nucleus.AI and trained on 500B tokens of RefinedWeb along with curated corpora.
+Devin,model,Cognition Labs,limited,Devin is the world’s first fully autonomous AI software engineer.
+Konan LLM,model,Konan,limited,"Konan LLM is a Large Language Model developed in-house by Konan Technology. Optimized for super-large AI training, it leverages high-quality, large-scale data and over 20 years of expertise in natural language processing."
+LinkedIn,application,LinkedIn,open,"More than 40 percent of LinkedIn's feed posts include at least one image. We want every member to have equal access to opportunity and are committed to ensuring that we make images accessible to our members who are blind or who have low vision so they can be a part of the online conversation. With Azure Cognitive Service for Vision, we can provide auto-captioning to edit and support alt. text descriptions."
+Character,application,Character AI,limited,Character allows users to converse with various chatbot personas.
+Open X-Embodiment dataset,dataset,Open X-Embodiment,open,"The Open X-Embodiment dataset is a dataset of robot movements assembled from 22 different robots collected through a collaboration between 21 institutions, demonstrating 527 skills (160266 tasks)"
+RT-1-X,model,"Open X-Embodiment, Google Deepmind",open,"RT-1-X is a model trained on the Open X-Embodiment dataset that exhibits better generalization and new capabilities compared to its predecessor RT-1, an efficient Transformer-based architecture designed for robotic control."
+RT-2-X,model,"Open X-Embodiment, Google Deepmind",closed,"RT-2-X is a model trained on the Open X-Embodiment dataset that exhibits better generalization and new capabilities compared to its predecessor RT-2, a large vision-language model co-fine-tuned to output robot actions as natural language tokens."
+Taiyi Diffusion XL,model,"International Digital Economy Academy, South China University of Technology, University of Science and Technology of China",open,Taiyi Diffusion XL is a new Chinese and English bilingual text-to-image model which is developed by extending the capabilities of CLIP and Stable-DiffusionXL.
+Pegasus-1,model,Twelve Labs,open,Pegasus-1 is a video-language foundation model.
+Marengo 2.6,model,Twelve Labs,open,"Marengo 2.6 is a new state-of-the-art (SOTA) multimodal foundation model capable of performing any-to-any search tasks, including Text-To-Video, Text-To-Image, Text-To-Audio, Audio-To-Video, Image-To-Video, and more. "
+GodziLLa 2,model,Maya Philippines,open,"GodziLLa 2 is an experimental combination of various proprietary LoRAs from Maya Philippines and Guanaco LLaMA 2 1K dataset, with LLaMA 2."
+BiomedGPT,model,Lehigh University,open,BiomedGPT leverages self-supervision on large and diverse datasets to accept multi-modal inputs and perform a range of downstream tasks.
+MM1,model,Apple,closed,"MM1 is a family of multimodal models, including both dense variants up to 30B and mixture-of-experts (MoE) variants up to 64B."
+OpenELM,model,Apple,open,"OpenELM is a family of Open-source Efficient Language Models. It uses a layer-wise scaling strategy to efficiently allocate parameters within each layer of the transformer model, leading to enhanced accuracy."
+StarCoder,model,BigCode,open,"StarCoder is a Large Language Model for Code (Code LLM) trained on permissively licensed data from GitHub, including from 80+ programming languages, Git commits, GitHub issues, and Jupyter notebooks."
+SantaCoder,model,BigCode,open,Multilingual code model derived from the findings of BigCode Project analysis on Github stars' association to data quality.
+The Stack,dataset,BigCode,open,"The Stack contains over 6TB of permissively-licensed source code files covering 358 programming languages. The Stack serves as a pre-training dataset for Code LLMs, i.e., code-generating AI systems which enable the synthesis of programs from natural language descriptions as well as other from code snippets."
+StarCoder2-15B,model,BigCode,open,"StarCoder2-15B model is a 15B parameter model trained on 600+ programming languages from The Stack v2, with opt-out requests excluded. The training was carried out using the Fill-in-the-Middle objective on 4+ trillion tokens."
+StarCoder2-7B,model,BigCode,open,"StarCoder2-7B model is a 7B parameter model trained on 17 programming languages from The Stack v2, with opt-out requests excluded. The model uses Grouped Query Attention, a context window of 16,384 tokens with a sliding window attention of 4,096 tokens, and was trained using the Fill-in-the-Middle objective on 3.5+ trillion tokens."
+StarCoder2-3B,model,BigCode,open,"StarCoder2-3B model is a 3B parameter model trained on 17 programming languages from The Stack v2, with opt-out requests excluded. The model uses Grouped Query Attention, a context window of 16,384 tokens with a sliding window attention of 4,096 tokens, and was trained using the Fill-in-the-Middle objective on 3+ trillion tokens."
+h2oGPT,model,H2O AI,open,Series of models fine-tuned on well-known LLMs using the h2oGPT repositories.
+H2O Danube,model,H2O AI,open,H2O Danube is a language model trained on 1T tokens following the core principles of LLaMA 2 and Mistral.
+ARES,application,Faraday Lab,open,ARES is a text-to-image generator based on Stable Diffusion. The goal is to provide a simple tool with a user interface allowing mainstream AI access for artists and creators.
+C4,dataset,Google,open,The Colossal Clean Crawled Corpus (C4) is a processed version of Common Crawl to facilitate transfer learning in NLP.
+Internal Google BERT dataset,dataset,Google,closed,"The dataset used to train Internal Google BERT models.
+"
+Conceptual Captions,dataset,Google,open,"A dataset containing 3 million (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems.
+"
+Conceptual 12M,dataset,Google,open,"A dataset with 12 million image-text pairs specifically meant to be used for vision-and-language pre-training.
+"
+T5,model,Google,open,Text-To-Text Transfer Transformer (T5) is a model that unifies all NLP tasks under the text-to-text format.
+Internal Google BERT,model,Google,closed,"Internal Google BERT model used to power Google Search products.
+"
+Google Search,application,Google,open,"Google Search is Google's search engine.
+"
+Infiniset,dataset,Google,closed,"Infiniset ""is a combination of dialog data from public dialog data and other public web documents"" [[Appendix E]](https://arxiv.org/pdf/2201.08239.pdf#appendix.E).
+"
+LaMDA,model,Google,closed,"LaMDA stands for Language Models for Dialog Application. It is a transformer based language model trained on dialogue data.
+"
+PaLM dataset,dataset,Google,closed,"PaLM dataset ""was created for pre-training language models"" [[Datasheet]](https://arxiv.org/pdf/2204.02311.pdf#appendix.D).
+"
+Flan-T5,model,Google,open,Flan-T5 is a version of the T5 language model fine-tuned on instruction data
+UL2,model,Google,open,UL2 is a language model trained with a new pretraining objective
+Parti,model,Google,closed,Parti is a text-to-image diffusion model
+Imagen,model,Google,open,Imagen is a text-to-image diffusion model
+VATT,model,Google,open,VATT is a family of models trained on multimodal data
+PaLM,model,Google,limited,"PaLM stands Pathways Language Model, ""dense decoder-only Transformer model trained with the Pathways system"" [[Google ai Blog]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html).
+"
+PaLM API,application,Google,limited,a new developer offering that makes it easy and safe to experiment with Google’s language models.
+Med-PaLM,model,Google,closed,nan
+Med-PaLM Multimodal,model,Google,closed,nan
+MultiMedQA,model,Google,closed,nan
+Flan-PaLM,model,Google,closed,nan
+Flan-U-PaLM,model,Google,closed,nan
+Muffin,dataset,Google,open,nan
+U-PaLM,model,Google,closed,nan
+PaLM-SayCan,model,Google,closed,nan
+GLaM,model,Google,closed,nan
+GLaM Web dataset,dataset,Google,closed,nan
+GLaM Conversations dataset,dataset,Google,closed,nan
+GLaM Forums dataset,dataset,Google,closed,nan
+GLaM News dataset,dataset,Google,closed,nan
+MUM,model,Google,closed,MUM (Multitask Unified Model) is a multimodal model that is specialized for more complex queries.
+MUM dataset,dataset,Google,closed,nan
+Phenaki,model,Google,closed,nan
+Phenaki Video-Text Corpus,dataset,Google,closed,nan
+Flan-UL2,model,Google,open,nan
+Flan Collection,dataset,Google,open,nan
+MusicLM,model,Google,closed,nan
+SoundStream,model,Google,closed,nan
+w2v-BERT,model,Google,closed,nan
+MuLan,model,Google,closed,nan
+MuLan dataset,dataset,Google,closed,nan
+MusicLM dataset,dataset,Google,closed,nan
+MusicLM semantic model,model,Google,closed,nan
+MusicLM acoustic model,model,Google,closed,nan
+Noise2Music,model,Google,closed,nan
+LaMDA-LF,dataset,Google,closed,nan
+Rater-LF,dataset,Google,closed,nan
+Rater-SF,dataset,Google,closed,nan
+Noise2Music pseudolabeler,model,Google,closed,nan
+Noise2Music audio dataset,dataset,Google,closed,nan
+Noise2Music pseudolabel dataset,dataset,Google,closed,nan
+AI Test Kitchen,application,Google,limited,"AI Test Kitchen provides a new way for people to learn about, experience, and give feedback on emerging AI technology, like LaMDA."
+Bard,application,Google,closed,"Conversational AI service, powered by LaMDA"
+Minerva,model,Google,closed,nan
+Minerva Math Web Pages dataset,dataset,Google,closed,nan
+USM,model,Google,limited,"Universal Speech Model (USM) is a family of state-of-the-art speech models with 2B parameters trained on 12 million hours of speech and 28 billion sentences of text, spanning 300+ languages. USM, which is for use in YouTube (e.g., for closed captions), can perform automatic speech recognition (ASR) on widely-spoken languages like English and Mandarin, but also languages like Punjabi, Assamese, Santhali, Balinese, Shona, Malagasy, Luganda, Luo, Bambara, Soga, Maninka, Xhosa, Akan, Lingala, Chichewa, Nkore, Nzema to name a few. Some of these languages are spoken by fewer than twenty million people, making it very hard to find the necessary training data."
+YouTube,application,Google,open,YouTube is a global online video sharing and social media platform
+PaLM-E,model,Google,closed,nan
+ViT-22B,model,Google,closed,nan
+AudioLM,model,Google,closed,nan
+PaLI,model,Google,closed,nan
+ViT-e,model,Google,closed,nan
+WebLI,dataset,Google,closed,nan
+Vid2Seq,model,Google,open,nan
+Google Joint SLM,model,Google,closed,Joint speech and language model using a Speech2Text adapter and using a CTC-based blank-filtering.
+PaLM 2,model,Google,open,PaLM 2 is a new state-of-the-art language model that has better multilingual and reasoning capabilities and is more compute-efficient than its predecessor PaLM. PaLM 2 is a Transformer-based model trained using a mixture of objectives similar to UL2.
+MedLM,model,Google,limited,"MedLM is a collection of foundation models tuned to follow natural language instructions for tasks in medicine, such as question answering and creating draft summaries."
+Gemini,model,Google,closed,"As of release, Gemini is Google's most capable and flexible AI model, proficient in multimodal domains."
+TimesFM,model,Google,closed,TimesFM is a single forecasting model pre-trained on a large time-series corpus of 100 billion real world time-points.
+Gemma,model,Google,open,"Gemma is a family of lightweight, state-of-the-art open models from Google, based on the Gemini models. They are text-to-text, decoder-only large language models, available in English."
+Med-Gemini,model,Google,closed,"Med-Gemini is a family of highly capable multimodal models that are specialized in medicine with the ability to seamlessly integrate the use of web search, and that can be efficiently tailored to novel modalities using custom encoders."
+HyperCLOVA,model,NAVER,closed,HyperClova is an autoregressive language model
+HyperCLOVA X,model,NAVER,limited,"HyperCLOVA X is a family of large language models (LLMs) tailored to the Korean language and culture, along with competitive capabilities in English, math, and coding."
+Crisis Contact Simulator,application,The Trevor Project,closed,"Crisis Contact Simulator, developed as part of a collaboration with Google.org, helps train The Trevor Project counselors by mimicking to be a teen in crisis. Crisis Contact Simulator is used as part of the training programs for the Trevor Project's 24/7 digital crisis services that supports LGBTQ youth [[Trevor Project Blog]](https://www.thetrevorproject.org/blog/the-trevor-project-launches-new-ai-tool-to-support-crisis-counselor-training/).
+"
+Ask Instacart,application,Instacart,limited,"Instacart is augmenting the Instacart app to enable customers to ask about food and get inspirational, shoppable answers. This uses ChatGPT alongside Instacart’s own AI and product data from their 75,000+ retail partner store locations to help customers discover ideas for open-ended shopping goals, such as “How do I make great fish tacos?” or “What’s a healthy lunch for my kids?” Instacart plans to launch “Ask Instacart” later this year."
+Firefly Image 2,model,Adobe,closed,"Firefly Image 2 is the next generation of generative AI for imaging, bringing significant advancements to creative control and quality, including new Text to Image capabilities now available in the popular Firefly web app where 90% of users are new to Adobe products."
+Firefly Vector,model,Adobe,closed,"Firefly Vector is the world’s first generative AI focused on producing vector graphics, bringing Adobe's vector graphic and generative AI expertise directly into Adobe Illustrator workflows with Text to Vector Graphic."
+Firefly Design,model,Adobe,closed,Firefly Design powers instant generation of amazing quality template designs in Adobe Express with the new Text to Template capability.
+Firefly,application,Adobe,limited,"Adobe Firefly is a standalone web application. It offers new ways to ideate, create, and communicate while significantly improving creative workflows using generative AI."
+CulturaX,dataset,"University of Oregon, Adobe",open,"CulturaX is a substantial multilingual dataset with 6.3 trillion tokens in 167 languages, tailored for LLM development."
+GenSLM,model,Argonne National Laboratory,open,nan
+Moonhub Recruiter,application,Moonhub,limited,Moonhub Recruiter is the world's first AI-powered recruiter providing sourcing and recruiting services for startups and growing businesses.
+Skywork,model,Kunlun Inc.,open,The Skywork series is a family of large language models (LLMs) trained on a corpus of over 3.2 trillion tokens drawn from both English and Chinese texts.
+COYO-700M,dataset,Kakao Brain,open,"COYO-700M is a large-scale dataset that contains 747M image-text pairs as well as many other meta-attributes to increase the usability to train various models.
+"
+Kotoba Speech,model,Kotoba Tech,open,Kotoba-Speech is a Transformer-based speech generative model that supports fluent text-to-speech generation in Japanese and one-shot voice cloning through speech prompt.
+Shop Assistant,application,Shop,open,"When shoppers search for products, the shopping assistant makes personalized recommendations based on their requests. Shop’s new AI-powered shopping assistant will streamline in-app shopping by scanning millions of products to quickly find what buyers are looking for—or help them discover something new."
+GPT-3 dataset,dataset,OpenAI,closed,The GPT-3 dataset is the text corpus that was used to train the GPT-3 model. Information on the GPT-3 dataset is limited to discussion in the paper introducing GPT-3 [[Section 2.2]](https://arxiv.org/pdf/2005.14165.pdf#subsection.2.2).
+HumanEval,dataset,OpenAI,open,"HumanEval is a dataset of 164 programming problems hand-written to evaluate their Codex model.
+"
+Codex dataset,dataset,OpenAI,closed,"The dataset used to train the Codex model.
+"
+CLIP dataset,dataset,OpenAI,closed,"CLIP dataset contains text-image pairs crawled from the internet.
+"
+DALL·E dataset,dataset,OpenAI,closed,"DALL·E dataset is the training set consisting of image and text pairs collected to train the DALL·E model.
+"
+Whisper dataset,dataset,OpenAI,closed,"The Whisper dataset is the speech corpus that was used to train the Whisper model. Information on the dataset is limited to discussion in the paper introducing Whisper. [[Section 2.1]](https://cdn.openai.com/papers/whisper.pdf).
+"
+WebText,dataset,OpenAI,closed,nan
+GPT-2,model,OpenAI,open,nan
+GPT-3,model,OpenAI,limited,"GPT-3 is an autoregressive language model.
+"
+Codex,model,OpenAI,limited,"Codex is a GPT language model fine-tuned on publicly available code from GitHub.
+"
+InstructGPT,model,OpenAI,closed,"InstructGPT is a family of GPT-3 based models fine-tuned on human feedback, which allows for better instruction following capabilities than GPT-3.
+"
+Whisper,model,OpenAI,open,Whisper is an audio transcription software.
+CLIP,model,OpenAI,open,"""CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3. We found CLIP matches the performance of the original ResNet50 on ImageNet “zero-shot” without using any of the original 1.28M labeled examples, overcoming several major challenges in computer vision"" [[CLIP Repository]](https://github.com/openai/CLIP).
+"
+DALL·E,model,OpenAI,limited,"DALL·E is a GPT-3 based model trained to generate images from text descriptions. The authors found that it had ""a diverse set of capabilities, including creating anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images"" [[OpenAI Blog Post]](https://openai.com/blog/dall-e/).
+"
+Jukebox,model,OpenAI,open,Jukebox is a generative model that produces music
+DALL·E 2,model,OpenAI,limited,"""DALL·E 2 is an artificial intelligence model that takes a text prompt and/or existing image as an input and generates a new image as an output"" [[System Card]] (https://github.com/openai/dalle-2-preview/blob/main/system-card.md). The model wasn't fully released, but OpenAI released a version of the model (DALL·E 2 Preview) to a select group of testers.
+"
+OpenAI API,application,OpenAI,limited,"OpenAI API is a general purpose ""text in, text out"" interface connecting users with a suite of language models. The API was initially released as a gateway to GPT-3, but it now supports access to other, more specialized OpenAI models. [[Open AI Blog Post]](https://openai.com/blog/openai-api/)
+"
+VPT,model,OpenAI,open,nan
+web_clean,dataset,OpenAI,closed,nan
+ChatGPT,application,OpenAI,limited,ChatGPT is an artificial intelligence chatbot developed by OpenAI.
+gpt-3.5-turbo,model,OpenAI,limited,nan
+GPT-4 Turbo,model,OpenAI,limited,GPT-4 Turbo is a more capable version of GPT-4 and has knowledge of world events up to April 2023. It has a 128k context window so it can fit the equivalent of more than 300 pages of text in a single prompt.
+gpt-3.5-turbo dataset,dataset,OpenAI,limited,nan
+code-davinci-002 dataset,dataset,OpenAI,limited,nan
+code-davinci-002,model,OpenAI,limited,nan
+text-davinci-002,model,OpenAI,limited,nan
+text-davinci-003,model,OpenAI,limited,nan
+Whisper API,application,OpenAI,open,API to query OpenAI's Whisper model.
+ChatGPT API,application,OpenAI,open,API to query OpenAI's ChatGPT model.
+OpenAI Moderation API,application,OpenAI,open,This endpoint provides OpenAI API developers with free access to GPT-based classifiers that detect undesired content—an instance of using AI systems to assist with human supervision of these systems.
+OpenAI toxicity classifier,model,OpenAI,closed,nan
+OpenAI toxicity dataset,dataset,OpenAI,closed,nan
+Sage API,application,OpenAI,limited,A chatbot language model available via Quora's Poe
+Dragonfly API,application,OpenAI,limited,A chatbot language model available via Quora's Poe
+Sage,model,OpenAI,limited,A chatbot language model available via Quora's Poe
+Dragonfly,model,OpenAI,limited,A chatbot language model available via Quora's Poe
+ChatGPT for Slack,application,"OpenAI, Salesforce",limited,"The app integrates ChatGPT’s powerful AI technology to deliver instant conversation summaries, research tools, and writing assistance directly in Slack to help millions of companies work more productively."
+GPT-4,model,OpenAI,limited,nan
+GPT-4 API,application,OpenAI,limited,"GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses"
+ChatGPT Enterprise,application,OpenAI,limited,"ChatGPT Enterprise offers enterprise-grade security and privacy, unlimited higher-speed GPT-4 access, longer context windows for processing longer inputs, advanced data analysis capabilities, and customization options compared to OpenAI's previous offerings."
+DALL·E 3,model,OpenAI,limited,"DALL·E 3 is an artificial intelligence model that takes a text prompt and/or existing image as an input and generates a new image as an output The model is now in research preview, and will be available to ChatGPT Plus and Enterprise customers in October."
+Sora,model,OpenAI,limited,Sora is an AI model that can create realistic and imaginative scenes from text instructions.
+Ideogram 1.0,model,Ideogram AI,limited,"Ideogram 1.0 is Ideogram’s most advanced text-to-image model, as of release."
+FinPile,dataset,Bloomberg,closed,"A comprehensive dataset consisting of a range of English financial documents including news, filings, press releases, web-scraped financial documents, and social media drawn from the Bloomberg archives that was used to train the BloombergGPT model."
+BloombergGPT,model,Bloomberg,closed,BloombergGPT is a 50 billion parameter large language model that is specifically trained on a wide range of financial data to support a diverse set of natural language processing tasks within the financial industry.
+Common Corpus,dataset,Pleias,open,"Common Corpus is the largest public domain dataset released for training Large Language Models (LLMs). This dataset includes 500 billion words from a diverse range of cultural heritage initiatives and is the largest corpus in English, French, Dutch, Spanish, German and Italian. It supports efforts to train fully open LLMs on sources without copyright concerns."
+Cformers,application,Nolano,limited,Cformers is a set of transformers that act as an API for AI inference in code.
+Platypus,model,Boston University,open,Platypus is a family of fine-tuned and merged Large Language Models (LLMs).
+UFOGen,model,Boston University,open,"UFOGen is a novel generative model designed for ultra-fast, one-step text-to-image synthesis."
+Nextdoor Assistant,application,Nextdoor,open,AI chatbot on Nextdoor that helps users write more clear and conscientious posts.
+You dataset,dataset,You,closed,nan
+You model,model,You,closed,nan
+You Search,application,You,open,You.com is a search engine built on artificial intelligence that provides users with a customized search experience while keeping their data 100% private.
+SBU Captions,dataset,Stony Brook University,open,"SBU Captions Dataset is a collection of 1 million images and associated captions from Flickr, filtered so that the descriptions are likely to refer to visual content.
+"
+MassiveText,dataset,Google Deepmind,closed,"The MassiveText dataset was used to train the Gopher model.
+"
+M3W,dataset,Google Deepmind,closed,"M3W (MassiveWeb) is dataset used to train Flamingo, and other vision-language models and was created by researchers and engineers.
+"
+Gato dataset,dataset,Google Deepmind,closed,"The Gato datasets are a collection of data used to train the Gato model.
+"
+AlphaFold2,model,Google Deepmind,open,AlphaFold2 is a protein language model trained on protein sequences
+Flamingo,model,Google Deepmind,closed,"Flamingo is a Visual Language Model using the Transformer architecture that is intended for few-shot learning.
+"
+AlphaCode,model,Google Deepmind,closed,AlphaCode is an autoregressive language model trained on code
+Gopher,model,Google Deepmind,closed,"Gopher is an autoregressive language model based on the Transformer architecture with two modifications: using RMSNorm instead of LayerNorm and using relative positional encoding scheme instead of absolute positional encodings [[Section 3]](https://arxiv.org/pdf/2112.11446.pdf#subsection.3.1).
+"
+Chinchilla,model,Google Deepmind,closed,"Chinchilla is an autoregressive language model based on the Transformer architecture with improved scaling laws.
+"
+Gato,model,Google Deepmind,closed,"Gato is a generalist agent based on sequence modeling using the Transformer architecture to implement multi-modal, multi-task, multi-embodiment generalist policy.
+"
+Sparrow,model,Google Deepmind,closed,nan
+RETRO,model,Google Deepmind,closed,nan
+Sparrow Rule reward model,model,Google Deepmind,closed,nan
+Sparrow Preference reward model,model,Google Deepmind,closed,nan
+Sparrow adversarial probing dataset,dataset,Google Deepmind,closed,nan
+Sparrow response preference dataset,dataset,Google Deepmind,closed,nan
+GopherCite,model,Google Deepmind,closed,nan
+GopherCite reward model,model,Google Deepmind,closed,nan
+GopherCite Preference dataset,dataset,Google Deepmind,closed,nan
+Dramatron,model,Google Deepmind,closed,nan
+RT-2,model,Google Deepmind,open,RT-2 is a vision-language-action model for robotic actions that incorporates chain of thought reasoning.
+Lyria,model,Google Deepmind,closed,Lyria is DeepMind's most advanced AI music generation model to date.
+Genie,model,Google DeepMind,closed,"Gene is a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches."
+YT-Temporal-1B,dataset,University of Washington,open,nan
+WebVid-10M,dataset,University of Oxford,open,"WebVid-10M is a large-scale dataset of short videos with textual descriptions sourced from stock footage sites.
+"
+WebVid-2M,dataset,University of Oxford,open,"WebVid-2M is a large-scale dataset of 2.5M short videos with textual descriptions sourced from stock footage sites. A subset of the WebVid-10M dataset.
+"
+Sana,application,Sana,limited,"""Sana is your all-in-one, AI-assisted, online learning platform (LMS). Author employee training courses and measure team development with Sana's powerful analytics. Sana partners with the world's most important organizations and fastest-growing startups to make personalized, adaptive learning available for everyone, everywhere"" [[Sana GPT-3 Demo]](https://gpt3demo.com/apps/sanalabs).
+"
+NaturalInstructions-v2,dataset,AI2,open,nan
+SODA,dataset,AI2,open,"SODA is the first publicly available, million-scale, high-quality dialogue dataset covering a wide range of social interactions."
+Multimodal C4,dataset,AI2,open,An augmentation of C4 with images added and made openly available.
+COSMO,model,AI2,open,COSMO is a conversation agent with greater generalizability on both in- and out-of-domain chitchat datasets
+Dolma,dataset,AI2,open,"Dolma is a dataset of 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials"
+Tulu-V2-mix,dataset,AI2,open,Tulu-V2-mix is a dataset composed of many high-quality instruction datasets that results in stronger performance across a variety of reasoning and knowledge-probing tasks.
+Tulu 2,model,AI2,open,Tulu 2 is a language model trained on the new Tulu-v2-mix dataset and fine-tuned on more state of the art language models.
+Tulu 2 DPO,model,AI2,open,"Tulu 2 DPO is created in a similar manner to Tulu 2, but with Direct Preference Optimization (DPO)."
+Code Tulu 2,model,AI2,open,"Code Tulu 2 is a fine-tuned version of Code LLaMA that was trained on a mix of publicly available, synthetic and human datasets."
+OLMo,model,AI2,open,"Open Language Model (OLMo) is designed to provide access to data, training code, models, and evaluation code necessary to advance AI through open research to empower academics and researchers to study the science of language models collectively."
+MADLAD-400,dataset,AI2,open,"MADLAD-400 is a document-level multilingual dataset based on Common Crawl, covering 419 languages in total."
+VARCO-LLM,model,NCSOFT,closed,VARCO-LLM is NCSOFT’s large language model and is trained on English and Korean.
+UnderwriteGPT,application,Paladin Group and Dais Technology,limited,UnderwriteGPT is the world's first generative AI underwriting tool.
+Cerebras-GPT,model,Cerebras,open,"A Family of Open, Compute-efficient, Large Language Models. The family includes 111M, 256M, 590M, 1.3B, 2.7B, 6.7B, and 13B models. All models in the Cerebras-GPT family have been trained in accordance with Chinchilla scaling laws (20 tokens per model parameter). [[Cerebras Blog Post]](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models)
+"
+Jais,model,"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",open,Jais is the world’s most advanced Arabic LLM as of its release.
+Jais Chat,model,"Inception Institute of Artificial Intelligence, Cerebras, Mohamed bin Zayed University of Artificial Intelligence",open,"Jais Chat is an instruction-tuned version of Jais, optimized for dialog interaction."
+Bittensor Language Model,model,Cerebras,open,Bittensor Language Model is a 3 billion parameter language model with an 8k context length trained on 627B tokens of SlimPajama.
+SlimPajama,dataset,Cerebras,open,"As of release, SlimPajama is the largest extensively deduplicated, multi-corpora, open-source dataset for training large language models."
+CodeGen,model,Salesforce,open,CodeGen is a language model for code
+BLIP,model,Salesforce,open,nan
+LAION-115M,dataset,Salesforce,open,nan
+EinsteinGPT,application,Salesforce,limited,EinsteinGPT is generative AI for customer relationship management (CRFM).
+BLIP-2,model,Salesforce,open,BLIP-2 is a model that employs a generic and efficient pretraining strategy that bootstraps vision-language pre-training from off-the-shelf frozen pre-trained image encoders and frozen large language models.
+Moirai,model,Salesforce,open,"Moirai is a cutting-edge time series foundation model, offering universal forecasting capabilities. It stands out as a versatile time series forecasting model capable of addressing diverse forecasting tasks across multiple domains, frequencies, and variables in a zero-shot manner."
+LOTSA,dataset,Salesforce,open,LOTSA is the largest collection of open time series datasets with 27B observations across nine domains.
+Neeva dataset,dataset,Neeva,closed,nan
+Neeva model,model,Neeva,closed,nan
+NeevaAI,application,Neeva,open,NeevaAI is an AI-powered search tool that combines the capabilities of LLMs with Neeva's independent in-house search stack to create a unique and transformative search experience.
+Jurassic-1 dataset,dataset,AI21 Labs,closed,"The dataset used to train the Jurassic-1 models, based on publicly available data."
+Jurassic-1 Instruct dataset,dataset,AI21 Labs,closed,The dataset used to instruction-tune the Jurassic-1 Instruct models.
+Jurassic-1,model,AI21 Labs,limited,"Jurassic-1 is a family of autoregressive language models (Large, Grande, Jumbo)."
+Jurassic-1 Instruct,model,AI21 Labs,limited,Jurassic-1 Instruct is an instruction-tuned autoregressive language model.
+Jurassic-2,model,AI21 Labs,limited,Jurassic-2 is a family of language models designed to replace Jurassic-1.
+AI21 Playground,application,AI21 Labs,limited,The AI21 Labs Playground supports several task-specific APIs in addition to a variety of models.
+AI21 Paraphrase API,application,AI21 Labs,limited,AI21 Studio's Paraphrase API offers access to our world-class paraphrasing engine. It has been specifically developed for suggesting alternative ways to convey the same message using different words.
+AI21 Summarization API,application,AI21 Labs,limited,AI21 Studio's Summarize API offers access to our world-class summarization engine. It has been specifically developed for reading long texts and providing a faithful summary of the original document.
+Wordtune,application,AI21 Labs,limited,"Wordtune, the first AI-based writing companion that understands context and meaning."
+Wordtune Read,application,AI21 Labs,limited,"Wordtune Read is an AI reader that summarizes long documents so you can understand more, faster."
+Jamba,model,AI21 Labs,open,"Jamba is a state-of-the-art, hybrid SSM-Transformer LLM. Jamba is the world’s first production-grade Mamba based model."
+MPT,model,Mosaic,open,MPT is a series of large language models seeking to address the limitations of other open source models like LLaMA and Pythia.
+CommonCanvas,model,"Cornell University, Mosaic",open,CommonCanvas is a text-to-image model trained solely on Creative Commons licensed images.
+CommonCatalog,dataset,Mosaic,open,CommonCatalog is a curated dataset of CommonCrawl images and synthetic captions.
+AI Dungeon,application,Latitude,limited,"AI Dungeon is a single-player text adventure game that uses AI to generate content.
+"
+Conformer-1 dataset,dataset,AssemblyAI,closed,The dataset used to train AssemblyAI's Conformer-1 model.
+Conformer-1,model,AssemblyAI,limited,"Conformer-1 is a state-of-the-art speech recognition model trained on 650K hours of audio data that achieves near human-level performance and robustness across a variety of data, making up to 43% fewer errors on noisy data than other ASR models."
+AssemblyAI,application,AssemblyAI,limited,AssemblyAI uses Claude and Anthropic's model to transcribe and understand audio data at scale.
+Conformer-1 API,application,AssemblyAI,open,API to access the AssemblyAI's Conformer-1 model.
+Xwin-LM,model,Xwin,open,"Xwin-LM is a LLM, which on release, ranked top 1 on AlpacaEval, becoming the first to surpass GPT-4 on this benchmark."
+JARVIS-1,model,Peking University Institute for Artificial Intelligence,open,"JARVIS-1 is an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe."
+MAmmoTH,model,Ohio State University,open,MAmmoTH is a series of open-source large language models (LLMs) specifically tailored for general math problem-solving.
+A.X,model,SK Telecom,closed,"A.X is SK Telecom's proprietary LLM, which has been trained on the Korean language."
+Yi,model,01 AI,open,The Yi series models are large language models trained from scratch by developers at 01 AI.
+Yi-VL,model,01 AI,open,"The Yi Vision Language (Yi-VL) model is the open-source, multimodal version of the Yi Large Language Model (LLM) series, enabling content comprehension, recognition, and multi-round conversations about images."
+HowTo100M,dataset,"École Normale Supérieure, Inria",open,"HowTo100M is a large-scale dataset of narrated videos with an emphasis on instructional videos where content creators teach complex tasks with an explicit intention of explaining the visual content on screen. HowTo100M features a total of 136M video clips with captions sourced from 1.2M Youtube videos (15 years of video) and 23k activities from domains such as cooking, hand crafting, personal care, gardening or fitness."
+Lemur,model,OpenLemur,open,Lemur is an openly accessible language model optimized for both natural language and coding capabilities to serve as the backbone of versatile language agents.
+Lemur-Chat,model,OpenLemur,open,Lemur-Chat is an openly accessible language model optimized for both natural language and coding capabilities to serve as the backbone of versatile language agents.
+ACT-1,model,Adept,closed,ACT-1 (ACtion Transformer) is a large-scale transformer model designed and trained specifically for taking actions on computers (use software tools APIs and websites) in response to the user's natural language commands.
+Persimmon,model,Adept,open,"Persimmon is the most capable open-source, fully permissive model with fewer than 10 billion parameters, as of its release date."
+Fuyu,model,Adept,open,Fuyu is a small version of the multimodal model that powers Adept's core product.
+Fuyu Heavy,model,Adept,closed,Fuyu Heavy is a new multimodal model designed specifically for digital agents.
+CPM Bee,model,OpenBMB,open,"CPM-Bee is a fully open-source, commercially-usable Chinese-English bilingual base model with a capacity of ten billion parameters."
+UltraFeedback,dataset,OpenBMB,open,"UltraFeedback is a large-scale, fine-grained, diverse preference dataset, used for training powerful reward models and critic models."
+MiniCPM,model,OpenBMB,open,"MiniCPM is an End-Side LLM developed by ModelBest Inc. and TsinghuaNLP, with only 2.4B parameters excluding embeddings (2.7B in total)."
+Eurus,model,OpenBMB,open,Eurus is a suite of large language models (LLMs) optimized for reasoning.
+10k_prompts_ranked,dataset,Data is Better Together,open,"10k_prompts_ranked is a dataset of prompts with quality rankings created by 314 members of the open-source ML community using Argilla, an open-source tool to label data."
+ESM-2,model,Meta,open,ESM-2 is a series of protein language models trained on protein sequences
+PMD,dataset,Meta,closed,PMD (Public Multimodal Datasets) is a collection of image-text datasets introduced in the FLAVA work.
+FLAVA,model,Meta,open,"FLAVA is a multimodal model composed of an image encoder, text encoder, and multimodal encoder."
+The Galactica Corpus,dataset,Meta,closed,The Galactica Corpus is a collection of scientific datasets introduced in the Galactica work.
+Galactica,model,Meta,open,Galactica is a family of autoregressive language models.
+InCoder,model,"Meta, CMU, TTI-Chicago, UC Berkeley, University of Washington",open,InCoder is a language model trained on code with a causal masking objective
+OPT,model,Meta,limited,OPT is a family of autoregressive language models.
+Make-A-Video dataset,dataset,Meta,limited,"The Make-A-Video dataset is the dataset used to train Make-A-Video, which includes both image-text and video-only datasets with specific and significant filtering.
+"
+Make-A-Video,model,Meta,closed,"Make-A-Video is a model for Text-to-Video Generation without Text-Video Data.
+"
+LLaMA,model,Meta,open,"LLaMA is a collection of foundation language models ranging from 7B to 65B parameters trained our on trillions of tokens. The LLaMA models show that it is possible to train state-of-the-art models using publicly available datasets exclusively, without resorting to proprietary and inaccessible datasets."
+Llama 2,model,Meta,open,Llama 2 is an updated version of LLaMA trained on a new mix of publicly available data.
+OPT-IML,model,Meta,open,nan
+SA-1B,dataset,Meta,open,"SA-1B (Segment Anything 1 Billion) is a dataset designed for training general-purpose object segmentation models from open world images. It consists of 11M diverse, high-resolution, privacy protecting images and 1.1B high-quality segmentation masks.
+"
+SAM,model,Meta,open,"SAM (Segment Anything Model) is a foundation model for image segmentation. The model is designed and trained to be promptable, and supports flexible prompts (point, box, mask and free-form text) to compute masks in real-time to allow interactive use."
+Voicebox,model,Meta,closed,Voicebox is the first generative AI model for speech to generalize across tasks with state-of-the-art performance.
+PEER,model,Meta,open,"PEER is a collaborative language model that is trained to imitate the entire writing process itself. PEER can write drafts, add suggestions, propose edits and provide explanations for its actions."
+MusicGen,model,Meta,open,MusicGen is a simple and controllable model for music generation that doesn't require self-supervised semantic representation
+AudioGen,model,Meta,open,AudioGen is an auto-regressive generative model that generates audio samples conditioned on text inputs
+Emu,model,Meta,closed,Emu is a pre-trained latent diffusion model on 1.1 billion image-text pairs and fine-tuned with only a few thousand carefully selected high-quality images.
+Code LLaMA,model,Meta,open,Code Llama is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 34 billion parameters.
+Emu Video,model,Meta,closed,"Emu Video is a text-to-video generation model that factorizes the generation into two steps, first generating an image conditioned on the text, and then generating a video conditioned on the text and the generated image."
+Emu Edit,model,Meta,closed,Emu Edit is a multi-task image editing model which sets state-of-the-art results in instruction-based image editing.
+MetaCLIP,model,Meta,open,MetaCLIP is a more transparent rendition of CLIP that aims to reveal CLIP's training data curation methods.
+Llama 3,model,Meta,open,Llama 3 is the third generation of Meta AI's open-source large language model. It comes with pretrained and instruction-fine-tuned language models with 8B and 70B parameters that can support a broad range of use cases.
+HyperWrite,application,OthersideAI,limited,"HyperWrite is a writing assistant that generates text based on a user's request, as well as style and tone choices.
+"
+Midm,model,KT Corporation,open,Midm is a pre-trained Korean-English language model developed by KT. It takes text as input and creates text. The model is based on Transformer architecture for an auto-regressive language model.
+Anthropic Helpfulness dataset,dataset,Anthropic,open,"One of the datasets used to train Anthropic RLHF models. The dataset was collected by asking crowdworkers to have open-ended conversations with Anthropic models, ""asking for help, advice, or for the model to accomplish a task"", then choose the model answer that was more helpful for their given task, via the Anthropic Human Feedback Interface [[Section 2.2]](https://arxiv.org/pdf/2204.05862.pdf#subsection.2.2).
+"
+Anthropic Harmlessness dataset,dataset,Anthropic,closed,"One of the datasets used to train Anthropic RLHF models. The dataset was collected by asking crowdworkers to have open-ended conversations with Anthropic models, aiming to elicit harmful responses, then choose the model answer that was more harmful for their given task, via the Anthropic Human Feedback Interface [[Section 2.2]](https://arxiv.org/pdf/2204.05862.pdf#subsection.2.2).
+"
+Anthropic RLHF models,model,Anthropic,closed,"Anthropic RLHF models are models trained using reinforcement learning from human feedback (RLHF). For Anthropic RLHF models, authors started with a set of base models, and asked humans to rank model generated prompts based on a specific tasks. They then trained preference models (PM) on the prompt pairs, and use the PM scores as rewards for training the RLHF models.
+"
+Anthropic Human Feedback Interface,application,Anthropic,closed,"The feedback interface used to collect preference datasets to train Anthropic RLHF models [[Paper]](https://arxiv.org/pdf/2204.05862.pdf).
+"
+Anthropic API,application,Anthropic,limited,"API is designed to be a backend that incorporates Claude into any application you’ve developed. Our application sends text to our API, then receives a response via server-sent events, a streaming protocol for the web."
+Claude,model,Anthropic,limited,nan
+Claude Instant,model,Anthropic,limited,nan
+Claude 2,model,Anthropic,limited,"Claude 2 is a more evolved and refined version of Claude, which is a general purpose large language model using a transformer architecture and trained via unsupervised learning."
+Claude 2.1,model,Anthropic,limited,"Claude 2.1 is an updated version of Claude 2, with an increased context window, less hallucination and tool use."
+Claude for Sheets,application,Anthropic,open,Claude for Sheets is a Google Sheets add-on that allows the usage of Claude directly in Google Sheets.
+Claude 3,model,Anthropic,limited,The Claude 3 model family is a collection of models which sets new industry benchmarks across a wide range of cognitive tasks.
+ROOTS,dataset,BigScience,open,"The Responsible Open-science Open-collaboration Text Sources (ROOTS) corpus, a 1.6TB dataset spanning 59 languages that was used to train the 176-billion-parameter BigScience Large Open-science Open-access Multilingual (BLOOM) language model."
+P3,dataset,BigScience,open,The Public Pool of Prompts (P3) are prompts written in an unified format use to train T0++.
+xP3,dataset,BigScience,open,"xP3 (Crosslingual Public Pool of Prompts) is a collection of prompts and datasets across 46 of languages & 16 NLP tasks. It is used for the training of BLOOMZ and mT0, multilingual language models capable of following human instructions in dozens of languages zero-shot."
+T0++,model,BigScience,open,T0++ is an multitask fine-tuned language model based on T5.
+BLOOM,model,BigScience,open,BLOOM is an autoregressive multilingual language model.
+mT0,model,BigScience,open,mT0 is an multitask fine-tuned multilingual language model based on mT5.
+BLOOMZ,model,BigScience,open,BLOOMZ is an multitask fine-tuned autoregressive multilingual language model.
+CausalLM,model,CausalLM,open,CausalLM is an LLM based on the model weights of Qwen and trained on a model architecture identical to LLaMA 2.
+Bain Chat,application,Bain,limited,"With the alliance, Bain will combine its deep digital implementation capabilities and strategic expertise with OpenAI’s AI tools and platforms, including ChatGPT, to help its clients around the world identify and implement the value of AI to maximize business potential."
+SauerkrautLM,model,VAGO Solutions,open,SauerkrautLM is a German language model merged from two Mistral derivatives.
+Transformify Automate,application,Transformify,open,Transformify Automate is a platform for automated task integration using natural language prompts.
+Palmyra,model,Writer,open,Palmyra is a family of privacy-first LLMs for enterprises trained on business and marketing writing.
+Camel,model,Writer,open,Camel is an instruction-following large language model tailored for advanced NLP and comprehension capabilities.
+Dolly,model,Databricks,open,"""Databricks’ Dolly, a large language model trained on the Databricks
+ Machine Learning Platform, demonstrates that a two-years-old open source
+ model (GPT-J) can, when subjected to just 30 minutes of fine tuning on a
+ focused corpus of 50k records (Stanford Alpaca), exhibit surprisingly
+ high quality instruction following behavior not characteristic of the
+ foundation model on which it is based.""
+ [[Dolly Repository]](https://github.com/databrickslabs/dolly).
+"
+DBRX,model,Databricks,open,DBRX is a transformer-based decoder-only large language model (LLM) that was trained using next-token prediction by Databricks. It uses a fine-grained mixture-of-experts (MoE) architecture with 132B total parameters of which 36B parameters are active on any input. DBRX only accepts text-based inputs and produces text-based outputs.
+Vicuna,model,LMSYS,open,An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
+EXAONE 2.0,model,LG AI Research,closed,EXAONE 2.0 is a multimodal artificial intelligence that can be used to help develop new materials and medicines.
+RakutenAI,model,Rakuten,open,RakutenAI-7B is a model developed with a focus on Japanese language understanding. It offers competitive performance on English tests as well.
+OpenBA,model,Soochow University,open,OpenBA is an open-sourced 15B bilingual (English + Chinese) asymmetric seq2seq model.
+AI DJ,application,Spotify,limited,"The DJ is a personalized AI guide that knows you and your music taste so well that it can choose what to play for you. This feature, first rolling out in beta, will deliver a curated lineup of music alongside commentary around the tracks and artists we think you’ll like in a stunningly realistic voice."
+Koala,model,Berkeley,open,A relatively small chatbot trained by fine-tuning Meta’s LLaMA on dialogue data gathered from the web.
+Gorilla,model,Berkeley,open,Gorilla is a finetuned LLaMA-based model that surpasses the performance of GPT-4 on writing API calls.
+OpenLLaMA,model,Berkeley,open,OpenLlama is an open source reproduction of Meta's LLaMA model.
+SaiLY,model,Deepnight Research,open,SaiLy is a series/collection of AI Models by Deepnight Research which are highly experimental and uncensored.
+Poe,application,Quora,limited,"Poe lets people ask questions, get instant answers, and have back-and-forth conversations with several AI-powered bots. It is initially available on iOS, but we will be adding support for all major platforms in the next few months, along with more bots."
+Notion AI,application,Notion,limited,"Notion AI is a connected assistant that helps you think bigger, work faster, and augments your creativity, right inside the functional workspace you’re already familiar with."
+Deepseek,model,Deepseek AI,open,Deepseek is a 67B parameter model with Grouped-Query Attention trained on 2 trillion tokens from scratch.
+Deepseek Chat,model,Deepseek AI,open,Deepseek Chat is a 67B parameter model initialized from Deepseek and fine-tuned on extra instruction data.
+Deepseek Coder,model,Deepseek AI,open,"Deepseek Coder is composed of a series of code language models, each trained from scratch on 2T tokens, with a composition of 87% code and 13% natural language in both English and Chinese."
+Starling,model,Ollama,open,Starling is a large language model trained by reinforcement learning from AI feedback focused on improving chatbot helpfulness.
+Falcon-40B,model,UAE Technology Innovation Institute,open,"Falcon-40B is a 40B parameters causal decoder-only model built by TII and trained on 1,000B tokens of RefinedWeb enhanced with curated corpora."
+RefinedWeb,dataset,UAE Technology Innovation Institute,open,RefinedWeb is a high-quality five trillion tokens web-only English pretraining dataset.
+Falcon-180B,model,UAE Technology Innovation Institute,open,"Falcon-180B is a 180B parameters causal decoder-only model built by TII and trained on 3,500B tokens of RefinedWeb enhanced with curated corpora."
+My AI for Snapchat,application,Snap,open,"My AI offers Snapchatters a friendly, customizable chatbot at their fingertips that offers recommendations, and can even write a haiku for friends in seconds. Snapchat, where communication and messaging is a daily behavior, has 750 million monthly Snapchatters."
+Brex Chat,application,Brex,limited,"Brex Inc., a highly valued startup that makes software for finance professionals, is turning to the same artificial intelligence tool behind ChatGPT for a service that can answer questions about corporate budgets, policy and spending."
+LAION-400M,dataset,LAION,open,"LAION-400M is a dataset with CLIP-filtered 400 million image-text pairs, their CLIP embeddings and kNN indices that allow efficient similarity search. This dataset is entirely openly, freely accessible."
+LAION-5B,dataset,LAION,open,LAION is a dataset of 5 billion image-text pairs from the Internet
+LAION-2B-en,dataset,LAION,open,LAION-2B-en is a subset of the LAION-5B dataset and contains 2.3 billion English image-text pairs.
+OpenFlamingo,model,LAION,open,"An open-source reproduction of DeepMind's Flamingo model. At its core, OpenFlamingo is a framework that enables training and evaluation of large multimodal models (LMMs)."
+SALMONN,model,"ByteDance, Tsinghua University",open,"SALMONN is a large language model (LLM) enabling speech, audio event, and music inputs."
+SDXL-Lightning,model,ByteDance,open,"SDXL-Lightning is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps. The models are distilled from stabilityai/stable-diffusion-xl-base-1.0. This repository contains checkpoints for 1-step, 2-step, 4-step, and 8-step distilled models."
+VLMo,model,Microsoft,closed,VLMo is a model for text-to-image generation
+T-ULRv5,model,Microsoft,limited,T-ULRv5 is a language model trained with two unique training objectives
+Turing NLR-v5,model,Microsoft,limited,nan
+Megatron-Turing NLG,model,"Microsoft, NVIDIA",limited,"Megatron-Turing NLG is a 530B parameter autoregressive language model.
+"
+VALL-E,model,Microsoft,closed,Vall-E is a neural code model for text-to-speech synthesis
+GitHub CoPilot,application,Microsoft,limited,"GitHub CoPilot is a coding pair programmer assisting programmers as they write code.
+"
+BioGPT,model,Microsoft,open,nan
+Bing Search,application,Microsoft,limited,"AI-powered Bing search engine and Edge browser, available in preview now at Bing.com, to deliver better search, more complete answers, a new chat experience and the ability to generate content. We think of these tools as an AI copilot for the web."
+KOSMOS-1,model,Microsoft,closed,"KOSMOS-1 is a multimodal language model that is capable of perceiving multimodal input, following instructions, and performing in-context learning for not only language tasks but also multimodal tasks."
+Prometheus,model,Microsoft,closed,"In the context of Bing, we have developed a proprietary way of working with the OpenAI model that allows us to best leverage its power. We call this collection of capabilities and techniques the Prometheus model. This combination gives you more relevant, timely and targeted results, with improved safety."
+Florence,model,Microsoft,closed,nan
+FLD-900M,dataset,Microsoft,closed,nan
+Azure Cognitive Services for Vision,application,Microsoft,limited,"Cost-effective, production-ready computer vision services in Azure Cognitive Service for Vision. The improved Vision Services enables developers to create cutting-edge, market-ready, responsible computer vision applications across various industries."
+VisualChatGPT,model,Microsoft,closed,nan
+Microsoft 365 Copilot,application,Microsoft,limited,It combines the power of language models with your data in the Microsoft Graph and the Microsoft 365 apps to turn your words into the most powerful productivity tool on the planet.
+Microsoft Business Chat,application,Microsoft,limited,"Business Chat works across the langugae model, the Microsoft 365 apps, and your data — your calendar, emails, chats, documents, meetings and contacts — to do things you’ve never been able to do before. You can give it natural language prompts like “Tell my team how we updated the product strategy,” and it will generate a status update based on the morning’s meetings, emails and chat threads."
+Microsoft Excel,application,Microsoft,open,"Microsoft Excel is the industry leading spreadsheet software program, a powerful data visualization and analysis tool."
+Microsoft Outlook,application,Microsoft,open,"Microsoft Outlook is a personal information manager software system from Microsoft, available as a part of the Microsoft Office and Microsoft 365 software suites."
+Microsoft Power Platform,application,Microsoft,limited,"Microsoft Power Platform is a line of business intelligence, app development, and app connectivity software applications."
+Microsoft PowerPoint,application,Microsoft,open,Microsoft PowerPoint empowers you to create clean slideshow presentations and intricate pitch decks and gives you a powerful presentation maker.
+Microsoft Teams,application,Microsoft,open,"Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products."
+Microsoft Word,application,Microsoft,open,Microsoft Word is a word processing software developed by Microsoft
+Microsoft Inside Look,application,Microsoft,limited,"Inside look is a Microsoft Office feature, composing document insights highlighting key points, expected time to read, and popularity among others.
+"
+Microsoft Suggested Replies,application,Microsoft,limited,"Suggested replies is a Microsoft Outlook feature that suggests responses to emails, available in: English, Spanish, Italian, French, German, Portuguese Chinese Simplified, Chinese Traditional, Swedish, Russian, Korean, Czech, Hungarian, Arabic, Hebrew, Thai, Turkish, Japanese, Dutch, Norwegian, Danish, and Polish.
+"
+Microsoft Security Copilot,application,Microsoft,limited,"Microsoft Security Copilot is an AI-powered security analysis tool that enables analysts to respond to threats quickly, process signals at machine speed, and assess risk exposure in minutes.
+"
+UniLM,model,Microsoft,open,UniLM is a unified language model that can be fine-tuned for both natural language understanding and generation tasks.
+Docugami,model,Microsoft,limited,Docugami is a LLM focused on writing business documents and data using generative AI.
+BEiT-3,model,Microsoft,open,BEiT-3 is a general-purpose multimodal foundation model for vision and vision-language tasks.
+WizardLM,model,Microsoft,open,"Starting with an initial set of instructions, we use our proposed Evol-Instruct to rewrite them step by step into more complex instructions. Then, we mix all generated instruction data to fine-tune LLaMA. We call the resulting model WizardLM."
+WizardCoder,model,Microsoft,open,"WizardCoder empowers Code LLMs with complex instruction fine-tuning, by adapting the Evol-Instruct method to the domain of code."
+Florence-2,model,Microsoft,closed,"WizardCoder empowers Code LLMs with complex instruction fine-tuning, by adapting the Evol-Instruct method to the domain of code."
+FLD-5B,dataset,Microsoft,closed,FLD-5B is the dataset that powers Florence-2
+OpenOrca,dataset,Microsoft,open,"The OpenOrca dataset is a collection of augmented FLAN Collection data. Currently ~1M GPT-4 completions, and ~3.2M GPT-3.5 completions. It is tabularized in alignment with the distributions presented in the ORCA paper and currently represents a partial completion of the full intended dataset, with ongoing generation to expand its scope."
+LlongOrca,model,Microsoft,open,LlongOrca is an attempt to make OpenOrca able to function in a Llong context.
+Phi-1.5,model,Microsoft,open,Phi-1.5 is a large language transformer model.
+Orca 2,model,Microsoft,open,Orca 2 is a finetuned version of LLAMA-2 for research purposes.
+Phi-3 Mini,model,Microsoft,open,"Phi-3 Mini is a 3.8 billion-parameter, lightweight, state-of-the-art open model trained using the Phi-3 datasets."
+TigerBot,model,TigerResearch,open,TigerBot is an open source multilingual multitask LLM.
+coheretext,dataset,Cohere,closed,"The family of datasets used to train Cohere models, which come in two forms: coheretext-filtered and coheretext-unfiltered. The former is used to train the Representation models, while the latter one is used to train the Generation models.
+"
+Cohere Base,model,Cohere,limited,"The Generations model is a language model trained by Cohere for generation tasks.
+"
+Cohere Command,model,Cohere,limited,"This model is a generative model optimized to follow commands in the prompt.
+"
+Cohere Embed (English),model,Cohere,limited,"The Embedding Large (English) model is a language model trained by Cohere for tasks requiring embeddings.
+"
+Cohere Embed (Multilingual),model,Cohere,limited,"This model maps text from 100+ languages to a semantic vector space, positioning text with a similar meaning (regardless of language) in close proximity.
+"
+Cohere API,application,Cohere,limited,"Cohere API allows users to access the cohere language models and utilize them in their applications.
+"
+Cohere Generate Endpoint,application,Cohere,limited,"This endpoint generates realistic text conditioned on a given input.
+"
+Cohere Embed Endpoint,application,Cohere,limited,"This endpoint returns text embeddings. An embedding is a list of floating point numbers that captures semantic information about the text that it represents.
+"
+Cohere Classify Endpoint,application,Cohere,limited,"This endpoint makes a prediction about which label best fits a specified text input. To make a prediction, Classify uses the provided examples of text + label pairs as a reference.
+"
+Cohere Summarize Endpoint,application,Cohere,limited,"This endpoint generates a succinct version of the original text that relays the most important information.
+"
+Cohere Embedv3 (English),model,Cohere,limited,"As of release, Cohere Embedv3 is Cohere's latest and most advanced embeddings model."
+Aya,model,"Cohere for AI, Cohere, Brown University, Carnegie Mellon University, MIT",open,Aya is a massively multilingual generative language model that follows instructions in 101 languages of which over 50% are considered as lower-resourced.
+Command-R,model,Cohere,open,Command-R is a scalable generative model targeting RAG and Tool Use to enable production-scale AI for enterprise.
+Aya Dataset,dataset,"Cohere for AI, Beijing Academy of Artificial Intelligence, Cohere, Binghamton University",open,The Aya Dataset is a dataset that consists of original human-curated prompt-completion pairs written by fluent speakers of 65 languages.
+Rerank 3,model,Cohere,limited,Rerank 3 is a new foundation model for efficient enterprise search and retrieval with 4k context length.
+Grok-1,model,xAI,open,"Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy,"
+Grok-1.5V,model,xAI,limited,"Grok-1.5V is a first-generation multimodal model which can process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs."
+Speak,application,Speak,open,Speak is an AI-powered language learning app focused on building the best path to spoken fluency and is the the fastest-growing English app in South Korea.
+OceanGPT,model,Zhejiang University,open,OceanGPT is the first-ever LLM in the ocean domain and displays expertise in various ocean science tasks.
+BioMedLM,model,Stanford,open,nan
+RoentGen,model,Stanford,open,RoentGen is a generative medical imaging model that can create visually convincing X-ray images.
+CORGI,model,Stanford,open,Model trained to generate language corrections for physical control tasks.
+Alpaca dataset,dataset,Stanford,open,"Alpaca dataset consistes of 52,000 instruction-following demonstrations generated in the style of the [Self-Instruct framework](https://github.com/yizhongw/self-instruct) using OpenAI's text-davinci-003 engine. This instruction data can be used to conduct instruction-tuning for language models and make the language model follow instruction better.
+"
+Alpaca,model,Stanford,open,"Alpaca-7B is an instruction-following model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
+"
+AutoMathText,dataset,Math AI,open,AutoMathText is an extensive and carefully curated dataset encompassing around 200 GB of mathematical texts.
+Nous Hermes 2,model,Nous Research,open,Nous Hermes 2 Mixtral 8x7B DPO is the new flagship Nous Research model trained over the Mixtral 8x7B MoE LLM.
+YaRN LLaMA 2,model,"Nous Research, EleutherAI, University of Geneva",open,YaRN LLaMA 2 is an adapted version of LLaMA 2 using the YaRN extension method.
+Nous Capybara,model,Nous Research,open,The Capybara series is a series of LLMs and the first Nous collection of models made by fine-tuning mostly on data created by Nous in-house.
+YaRN Mistral,model,"Nous Research, EleutherAI, University of Geneva",open,YaRN Mistral is an adapted version of Mistral using the YaRN extension method.
+OpenHermes 2.5 Mistral,model,Nous Research,open,"OpenHermes 2.5 Mistral 7B is a state of the art Mistral Fine-tune, a continuation of OpenHermes 2 model, trained on additional code datasets."
+Hermes 2 Pro-Mistral,model,Nous,open,"Hermes 2 Pro on Mistral 7B is an upgraded, retrained version of Nous Hermes 2. This improved version excels at function calling, JSON Structured Outputs, and several other areas, scoring positively on various benchmarks."
+Genstruct,model,Nous,open,"Genstruct is an instruction-generation model, designed to create valid instructions given a raw text corpus. This enables the creation of new, partially synthetic instruction finetuning datasets from any raw-text corpus. This work was inspired by Ada-Instruct and the model is also trained to generate questions involving complex scenarios that require detailed reasoning."
+Megatron-LM,model,NVIDIA,closed,Megatron-LM is an autoregressive language model
+MineDojo,dataset,NVIDIA,open,nan
+VIMA dataset,dataset,"NVIDIA, Stanford",open,nan
+VIMA,model,"NVIDIA, Stanford",open,nan
+Nemotron 4,model,Nvidia,open,Nemotron 4 is a 15-billion-parameter large multilingual language model trained on 8 trillion text tokens.
+BigTrans,model,Institute of Automation Chinese Academy of Sciences,open,BigTrans is a model which adapts LLaMA that covers only 20 languages and enhances it with multilingual translation capability on more than 100 languages
+YAYI 2,model,Institute of Automation Chinese Academy of Sciences,open,YAYI 2 is an open source large language model trained in both English and Chinese.
+YaLM,model,Yandex,open,YaLM is a 100B parameter autoregressive model trained on 25% English and 75% Russian text.
+Yandex Search,application,Yandex,open,Yandex is a search engine and web portal. Yandex offers internet search and other services
+Continue,application,"Continue Dev, Inc.",open,Continue is the open-source autopilot for software development. It is an IDE extension that brings the power of ChatGPT to VS Code and JetBrains. It’s built to be deeply customizable and continuously learn from development data.
+GOAT,model,National University of Singapore,open,GOAT is a fine-tuned LLaMA model which uses the tokenization of numbers to significantly outperform benchmark standards on a range of arithmetic tasks.
+OpenMoE,model,"National University of Singapore, University of Edinburgh, ETH Zurich",open,OpenMoE is a series of fully open-sourced and reproducible decoder-only MoE LLMs.
+Baichuan 2,model,Baichuan Inc.,open,"Baichuan 2 is a series of large-scale multilingual language models containing 7 billion and 13 billion parameters, trained from scratch, on 2.6 trillion tokens."
+Wu Dao dataset,dataset,Beijing Academy of Artificial Intelligence,closed,nan
+Wu Dao 2.0,model,Beijing Academy of Artificial Intelligence,closed,nan
+JudgeLM,model,Beijing Academy of Artificial Intelligence,open,JudgeLM is a fine-tuned to be a scalable judge to evaluate LLMs efficiently and effectively in open-ended benchmarks.
+JudgeLM Dataset,dataset,Beijing Academy of Artificial Intelligence,open,"JudgeLM Dataset is a novel dataset replete with a rich variety of seed tasks, comprehensive answers from modern LLMs, answers’ grades from the teacher judge, and detailed reasons for judgments."
+SegMamba,model,"Hong Kong University of Science and Technology (Guangzhou + original), Beijing Academy of Artificial Intelligence",open,"SegMamba is a novel 3D medical image Segmentation Mamba model, designed to effectively capture long-range dependencies within whole volume features at every scale."
+BGE M3 Embedding,model,"Beijing Academy of Artificial Intelligence, University of Science and Technology of China",open,"BGE M3 Embedding is a new embedding model that can support more than 100 working languages, leading to new state-of-the-art performances on multi-lingual and cross-lingual retrieval tasks."
+EVA-CLIP,model,"Beijing Academy of Artificial Intelligence, Tsinghua University",open,"As of release, EVA-CLIP is the largest and most powerful open-source CLIP model to date, with 18 billion parameters."
+Luminous dataset,dataset,Aleph Alpha,closed,The dataset used to train the Luminous models.
+Luminous,model,Aleph Alpha,limited,Luminous is a family of multilingual language models
+Aleph Alpha API,application,Aleph Alpha,limited,The Aleph Alpha API serves a family of text-only language models (Luminous) and multimodal text-and-image models (Magma).
+MAGMA,model,Aleph Alpha,open,An autoregressive VL model that is able to generate text from an arbitrary combination of visual and textual input
+Robin AI,application,Robin AI,limited,"Robin AI uses Claude and Anthropic's models to understand language - including in technical domains like legal language. It's also very confident at drafting, summarising, translations, and explaining complex concepts in simple terms"
+Juni Tutor Bot,application,Juni Learning,limited,An online tutoring solution to help students achieve academic success.
+LAION-1B,dataset,Alibaba,closed,nan
+Composer,model,Alibaba,closed,nan
+Qwen,model,Alibaba,open,"QWEN is a comprehensive language model series that encompasses distinct models with varying parameter counts. Qwen series, now including Qwen, the base language models, namely Qwen-7B and Qwen-14B, as well as Qwen-Chat, the chat models, namely Qwen-7B-Chat and Qwen-14B-Chat. "
+Qwen 1.5,model,Alibaba,open,"Qwen 1.5 is the next iteration in their Qwen series, consisting of Transformer-based large language models pretrained on a large volume of data, including web texts, books, codes, etc."
+Qwen 1.5 MoE,model,Qwen Team,open,"Qwen 1.5 is the next iteration in their Qwen series, consisting of Transformer-based large language models pretrained on a large volume of data, including web texts, books, codes, etc. Qwen 1.5 MoE is the MoE model of the Qwen 1.5 series."
+SeaLLM v2.5,model,"DAMO Academy, Alibaba",open,SeaLLM v2.5 is a multilingual large language model for Southeast Asian (SEA) languages.
+OpenWebMath,dataset,University of Toronto,open,"OpenWebMath is an open dataset containing 14.7B tokens of mathematical webpages from Common Crawl, inspired by Minerva."
+Orion,model,OrionStarAI,open,Orion series models are open-source multilingual large language models trained from scratch by OrionStarAI.
+SambaLingo,model,Samba Nova Systems,open,SambaLingo is a suite of models that adapt Llama 2 to a diverse set of 9 languages.
+Samba 1,model,Samba Nova Systems,limited,Samba 1 is a trillion parameter generative AI model using a Composition of Experts architecture.
+LP-MusicCaps,dataset,South Korea Graduate School of Culture Technology,open,LP-MusicCaps is a LLM-based pseudo music caption dataset.
+SciPhi Mistral,model,SciPhi,open,SciPhi Mistral is a Large Language Model (LLM) fine-tuned from Mistral.
+Notus,model,Argilla,open,"Notus is an open source LLM, fine-tuned using Direct Preference Optimization (DPO) and AIF (AI Feedback) techniques."
+Amber,model,LLM360,open,"Amber is the first model in the LLM360 family, an initiative for comprehensive and fully open-sourced LLMs, where all training details, model checkpoints, intermediate results, and additional analyses are made available to the community."
+CrystalCoder,model,LLM360,open,CrystalCoder is a language model with a balance of code and text data that follows the initiative under LLM360 of its training process being fully transparent.
+Duolingo Explain My Answer,application,Duolingo,limited,"Explain My Answer offers learners the chance to learn more about their response in a lesson (whether their answer was correct or incorrect!) By tapping a button after certain exercise types, learners can enter a chat with Duo to get a simple explanation on why their answer was right or wrong, and ask for examples or further clarification."
+Duolingo Max,application,Duolingo,limited,Duolingo Max is a new subscription tier above Super Duolingo that gives learners access to two brand-new features and exercises - Explain My Answer and Roleplay.
+Duolingo Role Play,application,Duolingo,limited,"Roleplay allows learners to practice real-world conversation skills with world characters in the app. These challenges, which earn XP, will live alongside the path as one of the “Side Quests” learners can access by tapping on the character. What will you talk about? We’ll guide you through different scenarios! Learners might discuss future vacation plans with Lin, order coffee at a café in Paris, go furniture shopping with Eddy, or ask a friend to go for a hike."

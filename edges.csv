@@ -1,0 +1,764 @@
+source,target
+ToyMix,QM9
+ToyMix,TOX21
+ToyMix,ZINC12K
+LargeMix,L1000 VCAP
+LargeMix,L1000 MCF7
+LargeMix,PCBA1328
+LargeMix,PCQM4M_G25_N4
+UltraLarge,PM6_83M
+Prithvi,NASA HLS data
+Watsonx.ai,Granite
+Animagine XL 3.1,Animagine XL 3.0
+Viable,OpenAI API
+Auto-GPT,GPT-4 API
+Bark,AudioLM
+ChatGPT powered by OBO,ChatGPT API
+GPT-JT,GPT-J
+GPT-JT,P3
+GPT-JT,NaturalInstructions-v2
+GPT-NeoXT-Chat-Base,GPT-NeoX
+GPT-NeoXT-Chat-Base,OIG-43M
+OpenChatKit moderation model,GPT-JT
+OpenChatKit moderation model,OIG-moderation
+OIG-43M,P3
+OIG-43M,NaturalInstructions-v2
+OIG-43M,FLAN dataset
+RedPajama-Data,GitHub
+RedPajama-Data,Wikipedia
+Llama-2-7B-32K-Instruct,BookSum dataset
+Llama-2-7B-32K-Instruct,MQA dataset
+Llama-2-7B-32K-Instruct,Together API
+Llama-2-7B-32K-Instruct,LLaMA 2
+RedPajama-Data-v2,Common Crawl
+StripedHyena,Hyena
+StripedHyena,RedPajama-Data
+StripedHyena Nous,Hyena
+StripedHyena Nous,RedPajama-Data
+Otter,MIMIC-IT
+Otter,OpenFlamingo
+EXMODD,YFCC100M
+EXMODD,Image-Chat
+MiniMA,Llama 2
+OpenFold,AlphaFold2
+OpenFold,OpenProteinSet
+Ferret,CLIP
+Ferret,Vicuna
+Guanaco,QLoRA
+Guanaco,OASST1
+Llark,LLaMA 2
+Llark,Jukebox
+BioMistral,Mistral
+BioMistral,PubMed Central
+Khanmigo,GPT-4 API
+GreenBit LLaMA,LLaMA
+Ocean-1,GPT-4
+Ocean-1,Claude
+Ocean-1,Falcon-40B
+Aurora-M,StarCoderPlus
+Zephyr,Mistral
+IDEFICS,OBELICS
+IDEFICS,Wikipedia
+IDEFICS,LAION-5B
+IDEFICS,PMD
+BLUUMI,BLOOM
+Cosmopedia v0.1,Mixtral
+Idefics2,The Cauldron
+The Cauldron,LNarratives
+The Cauldron,Rendered Text
+The Cauldron,WebSight
+The Cauldron,DaTikz
+DeepFloyd IF,LAION-5B
+StableLM,StableLM-Alpha dataset
+StableLM,Alpaca dataset
+StableLM,gpt4all dataset
+StableLM,ShareGPT52K dataset
+StableLM,Dolly dataset
+StableLM,HH dataset
+Stable Video Diffusion,Large Video Dataset
+Large Video Dataset,WebVid-10M
+Large Video Dataset,CoCa
+Large Video Dataset,V-BLIP
+StableLM 2,RedPajama-Data
+StableLM 2,The Pile
+StableLM 2,RefinedWeb
+StableLM 2,The Stack
+StableLM 2,OpenWebText
+StableLM 2,OpenWebMath
+Stable Video 3D,Objaverse
+Stable Audio 2.0,AudioSparx
+FuseChat,Nous Hermes 2
+FuseChat,OpenChat 3.5
+MoMo,Qwen
+MoMo,OpenOrca
+Le Chat,Mistral
+Le Chat,Mistral Large
+Dolphin 2.2 Yi,Dolphin
+Dolphin 2.2 Yi,Yi
+WizardLM Uncensored,WizardLM
+DuckAssist,Anthropic API
+Perplexity Ask,GPT-3.5
+Perplexity Ask,Bing Search
+Bird SQL,Perplexity Ask
+Bird SQL,OpenAI API
+Vulture,Falcon-180B
+GPT-J,The Pile
+GPT-Neo,The Pile
+GPT-NeoX,The Pile
+GooseAI API,GPT-NeoX
+VQGAN-CLIP,VQGAN
+VQGAN-CLIP,CLIP
+Pythia,The Pile
+Llemma,Proof Pile 2
+Llemma,Code LLaMA
+Proof Pile 2,Common Crawl
+Proof Pile 2,OpenWebMath
+Proof Pile 2,Arxiv
+Proof Pile 2,RedPajama-Data
+Pile-T5,The Pile
+Pile-T5,T5x
+Pile-T5,LLaMA
+Pile-T5,umT5
+Virtual Volunteer,GPT-4 API
+GLM-130B,The Pile
+GLM-130B,GLM-130B Chinese corpora
+GLM-130B,P3
+GLM-130B,DeepStruct finetuning dataset
+CogVLM,Vicuna
+CogVLM,CLIP
+UltraLM,UltraChat
+PolyCoder,Github
+OpenAssistant LLaMA 2,LLaMA 2
+Pi,Inflection-2.5
+Q-Chat,ChatGPT API
+Bedrock,Jurassic-2
+Bedrock,Claude
+Bedrock,Stable Diffusion
+Bedrock,Amazon Titan
+Bedrock,Claude 2
+Bedrock,Cohere Command
+FalconLite2,Falcon-40B
+Chronos,T5
+InternVideo,Kinetics-400
+InternVideo,WebVid-2M
+InternVideo,WebVid-10M
+InternVideo,HowTo100M
+InternVideo,AVA
+InternVideo,Something-Something-v2
+InternVideo,Kinetics-710
+Lego-MT,OPUS
+MathCoder,GPT-4
+MathCoder,LLaMA 2
+InternVideo2,InternVL
+InternVideo2,VideoMAEv2
+InternVideo2,LAION
+InternVideo2,WebVid
+InternVideo2,InternVid
+InternVideo2,LLaVA
+InternVideo2,KMash
+CosmicMan,CosmicMan-HQ 1.0
+Nucleus,RefinedWeb
+LinkedIn,Azure Cognitive Services for Vision
+RT-1-X,Open X-Embodiment dataset
+RT-1-X,ImageNet EfficientNet
+RT-1-X,USE
+RT-2-X,Open X-Embodiment dataset
+RT-2-X,ViT (unknown size)
+RT-2-X,UL2
+Taiyi Diffusion XL,CLIP
+Taiyi Diffusion XL,LAION-400M
+Taiyi Diffusion XL,Wukong
+Taiyi Diffusion XL,Stable Diffusion XL
+Pegasus-1,MSR-VTT
+Pegasus-1,Video-ChatGPT Video Descriptions Dataset
+GodziLLa 2,LLaMA 2
+GodziLLa 2,Guanaco LLaMA dataset
+BiomedGPT,GPT-style autoregressive decoder
+BiomedGPT,BiomedGPT biomedical datasets
+OpenELM,RefinedWeb
+OpenELM,The Pile
+OpenELM,RedPajama-Data
+OpenELM,Dolma
+OpenELM,CoreNet library
+StarCoder,The Stack
+SantaCoder,The Stack
+SantaCoder,BigCode Dataset
+The Stack,GitHub
+StarCoder2-15B,The Stack v2
+StarCoder2-7B,The Stack v2
+StarCoder2-3B,The Stack v2
+h2oGPT,GPT-NeoX
+h2oGPT,H2O AI OpenAssistant
+h2oGPT,h2oGPT Repositories
+ARES,Stable Diffusion
+C4,CommonCrawl
+T5,C4
+Internal Google BERT,Internal Google BERT dataset
+Google Search,Internal Google BERT
+Google Search,MUM
+LaMDA,Infiniset
+PaLM dataset,Infiniset
+Flan-T5,T5
+Flan-T5,Muffin
+Flan-T5,P3
+Flan-T5,NaturalInstructions-v2
+Flan-T5,Flan CoT
+UL2,C4
+Parti,C4
+Parti,LAION-400M
+Parti,FIT400M
+Parti,JFT-4B
+Imagen,LAION-400M
+Imagen,Google internal image-text dataset
+VATT,AudioSet
+VATT,HowTo100M
+PaLM,PaLM dataset
+PaLM API,PaLM
+Med-PaLM,Flan-PaLM
+Med-PaLM,MultiMedQA
+Med-PaLM Multimodal,PaLM-E
+Med-PaLM Multimodal,MultiMedBench
+MultiMedQA,MedQA
+MultiMedQA,MedMCQA
+MultiMedQA,PubMedQA
+MultiMedQA,MMLU
+MultiMedQA,LiveQA
+MultiMedQA,Medication QA
+MultiMedQA,HealthSearchQA
+Flan-PaLM,PaLM
+Flan-PaLM,Muffin
+Flan-PaLM,P3
+Flan-PaLM,NaturalInstructions-v2
+Flan-U-PaLM,U-PaLM
+Flan-U-PaLM,Muffin
+Flan-U-PaLM,P3
+Flan-U-PaLM,NaturalInstructions-v2
+U-PaLM,PaLM
+U-PaLM,PaLM dataset
+PaLM-SayCan,PaLM
+GLaM,GLaM Web dataset
+GLaM,Wikipedia
+GLaM,GLaM Conversations dataset
+GLaM,GLaM Forums dataset
+GLaM,BooksCorpus
+GLaM,GLaM News dataset
+MUM,MUM dataset
+Phenaki,LAION-400M
+Phenaki,Phenaki Video-Text Corpus
+Flan-UL2,UL2
+Flan-UL2,Flan Collection
+Flan Collection,Flan dataset
+Flan Collection,P3
+Flan Collection,NaturalInstructions-v2
+MusicLM,SoundStream
+MusicLM,w2v-BERT
+MusicLM,MuLan
+MusicLM,MusicLM semantic model
+MusicLM,MusicLM acoustic model
+SoundStream,Free Music Archive
+w2v-BERT,Free Music Archive
+MuLan,AST
+MuLan,BERT
+MuLan,MuLan dataset
+MusicLM semantic model,MusicLM dataset
+MusicLM acoustic model,MusicLM dataset
+Noise2Music,Noise2Music pseudolabel dataset
+LaMDA-LF,LaMDA
+Rater-LF,MusicCaps
+Rater-SF,MusicCaps
+Noise2Music pseudolabeler,MuLan
+Noise2Music pseudolabeler,MuLaMCap
+Noise2Music pseudolabeler,LaMDA-LF
+Noise2Music pseudolabeler,Rater-LF
+Noise2Music pseudolabeler,Rater-SF
+Noise2Music pseudolabel dataset,Noise2Music audio dataset
+Noise2Music pseudolabel dataset,Noise2Music pseudolabeler
+AI Test Kitchen,LaMDA
+Bard,LaMDA
+Minerva,PaLM
+Minerva,arXiv
+Minerva,PaLM dataset
+Minerva,Minerva Math Web Pages dataset
+USM,YT-NLU-U
+USM,Pub-U
+USM,Web-NTL
+USM,YT-SUP+
+USM,Pub-S
+YouTube,USM
+PaLM-E,PaLM
+PaLM-E,ViT-22B
+ViT-22B,JFT
+AudioLM,w2v-BERT
+AudioLM,SoundStream
+PaLI,mT5
+PaLI,ViT-e
+PaLI,WebLI
+ViT-e,JFT
+Vid2Seq,T5
+Vid2Seq,CLIP
+Vid2Seq,YT-Temporal-1B
+Google Joint SLM,CTC blank-filtering
+Google Joint SLM,Speech2Text adapter
+PaLM 2,PaLM 2 dataset
+Med-Gemini,Gemini
+Med-Gemini,MultiMedBench
+Crisis Contact Simulator,OpenAI API
+Ask Instacart,ChatGPT API
+Firefly,Firefly Image 2
+Firefly,Firefly Vector
+Firefly,Firefly Design
+CulturaX,mC4
+CulturaX,OSCAR
+GenSLM,SARS-CoV-2 genome dataset
+GenSLM,BV-BRC dataset
+Moonhub Recruiter,Cohere Base
+Skywork,SkyPile
+COYO-700M,CommonCrawl
+Shop Assistant,ChatGPT API
+GPT-3 dataset,WebText
+GPT-2,WebText
+GPT-3,GPT-3 dataset
+Codex,GPT-3
+Codex,Codex dataset
+Codex,HumanEval
+InstructGPT,GPT-3
+InstructGPT,OpenAI API
+Whisper,Whisper dataset
+CLIP,CLIP dataset
+DALL·E,DALL·E dataset
+Jukebox,Jukebox Dataset
+DALL·E 2,DALL·E dataset
+DALL·E 2,CLIP dataset
+OpenAI API,GPT-3
+OpenAI API,Codex
+OpenAI API,code-davinci-002
+OpenAI API,text-davinci-002
+OpenAI API,text-davinci-003
+OpenAI API,gpt-3.5-turbo
+OpenAI API,Whisper
+OpenAI API,DALL·E
+OpenAI API,GPT-4
+OpenAI API,GPT-4 Turbo
+VPT,web_clean
+ChatGPT,gpt-3.5-turbo
+ChatGPT,OpenAI toxicity classifier
+gpt-3.5-turbo,gpt-3.5-turbo dataset
+code-davinci-002,code-davinci-002 dataset
+text-davinci-002,code-davinci-002
+text-davinci-003,text-davinci-002
+Whisper API,Whisper
+ChatGPT API,ChatGPT
+OpenAI Moderation API,OpenAI toxicity classifier
+OpenAI toxicity classifier,OpenAI toxicity dataset
+Sage API,Sage
+Dragonfly API,Dragonfly
+ChatGPT for Slack,ChatGPT API
+GPT-4 API,GPT-4
+ChatGPT Enterprise,GPT-4
+DALL·E 3,DALL·E 2 dataset
+DALL·E 3,CLIP dataset
+DALL·E 3,ChatGPT
+BloombergGPT,FinPile
+BloombergGPT,The Pile
+BloombergGPT,C4
+BloombergGPT,Wikipedia
+Platypus,LLaMA 2
+Platypus,Platypus curated dataset
+UFOGen,Stable Diffusion
+Nextdoor Assistant,ChatGPT
+You model,You dataset
+You Search,You model
+SBU Captions,Flickr
+Gato dataset,MassiveText
+AlphaFold2,Protein Data Bank
+Flamingo,M3W
+Flamingo,ALIGN
+Flamingo,LTIP
+Flamingo,VTP
+Flamingo,Chinchilla
+Gopher,MassiveText
+Chinchilla,MassiveText
+Gato,Gato dataset
+Sparrow,Chinchilla
+Sparrow,Google Search
+Sparrow,Sparrow Rule reward model
+Sparrow,Sparrow Preference reward model
+RETRO,MassiveText
+Sparrow Rule reward model,Chinchilla
+Sparrow Rule reward model,Sparrow adversarial probing dataset
+Sparrow Preference reward model,Chinchilla
+Sparrow Preference reward model,Sparrow response preference dataset
+Sparrow adversarial probing dataset,Chinchilla
+Sparrow response preference dataset,Chinchilla
+GopherCite,Gopher
+GopherCite,Google Search
+GopherCite,GopherCite reward model
+GopherCite reward model,Gopher
+GopherCite reward model,GopherCite Preference dataset
+GopherCite Preference dataset,Gopher
+GopherCite Preference dataset,Google Search
+Dramatron,Chinchilla
+RT-2,PaLI-X
+RT-2,PaLM-E
+RT-2,RT-2 action tokens
+YT-Temporal-1B,YouTube
+WebVid-2M,WebVid-10M
+Sana,OpenAI API
+Multimodal C4,C4
+COSMO,SODA
+COSMO,ProsocialDialog
+COSMO,T5
+Tulu-V2-mix,FLAN Collection
+Tulu-V2-mix,Open Assistant 1
+Tulu-V2-mix,ShareGPT
+Tulu-V2-mix,Alpaca dataset
+Tulu-V2-mix,Code Alpaca
+Tulu-V2-mix,LIMA
+Tulu-V2-mix,WizardLM
+Tulu-V2-mix,OpenOrca
+Tulu 2,LLaMA 2
+Tulu 2,Tulu-V2-mix
+Tulu 2 DPO,LLaMA 2
+Tulu 2 DPO,Tulu-V2-mix
+Code Tulu 2,Code LLaMA
+Code Tulu 2,Tulu-V2-mix
+OLMo,Dolma
+MADLAD-400,Common Crawl
+Cerebras-GPT,The Pile
+Jais,GPT-3
+Jais,The Pile
+Jais Chat,GPT-3
+Jais Chat,The Pile
+Bittensor Language Model,SlimPajama
+SlimPajama,RedPajama-Data
+BLIP,ViT-B
+BLIP,BERT
+BLIP,COCO
+BLIP,Visual Genome
+BLIP,Conceptual Captions
+BLIP,Conceptual 12M
+BLIP,SBU Captions
+BLIP,LAION-115M
+LAION-115M,LAION-400M
+EinsteinGPT,ChatGPT API
+BLIP-2,OPT
+Moirai,LOTSA
+Neeva model,Neeva dataset
+NeevaAI,Neeva model
+Jurassic-1,Jurassic-1 dataset
+Jurassic-1 Instruct,Jurassic-1
+Jurassic-1 Instruct,Jurassic-1 Instruct dataset
+AI21 Playground,Jurassic-1
+AI21 Playground,Jurassic-1 Instruct
+AI21 Playground,Jurassic-2
+AI21 Playground,AI21 Summarization API
+AI21 Playground,AI21 Paraphrase API
+AI21 Paraphrase API,Jurassic-2
+AI21 Summarization API,Jurassic-2
+Wordtune,AI21 Paraphrase API
+Wordtune Read,AI21 Summarize API
+MPT,RedPajama-Data
+MPT,C4
+MPT,The Stack
+MPT,Multimodal C4
+CommonCanvas,CommonCatalog
+CommonCatalog,YFCC100M
+CommonCatalog,BLIP-2
+AI Dungeon,OpenAI API
+Conformer-1,Conformer-1 dataset
+AssemblyAI,Anthropic API
+Conformer-1 API,Conformer-1
+MAmmoTH,MathInstruct
+MAmmoTH,LLaMA
+MAmmoTH,Code LLaMA
+HowTo100M,YouTube
+Lemur,LLaMA 2
+Lemur,The Stack
+Lemur,RefinedWeb
+Lemur,RedPajama
+Lemur,Common Crawl
+Lemur,Wikipedia
+Lemur,ArXiv
+Lemur-Chat,Lemur
+Lemur-Chat,OpenAssistant 1
+Lemur-Chat,OpenOrca
+Lemur-Chat,ShareGPT & ChatLogs
+Lemur-Chat,Evol-CodeAlpaca data
+Eurus,Eurus SFT
+Eurus,UltraInteract
+Eurus,UltraFeedback
+ESM-2,UniRef50
+ESM-2,UniRef90
+PMD,COCO
+PMD,YFCC100M
+PMD,SBU Captions
+PMD,Localized Narratives
+PMD,Visual Genome
+PMD,Wikipedia
+PMD,Conceptual Captions
+PMD,Red Caps
+FLAVA,PMD
+The Galactica Corpus,CommonCrawl
+The Galactica Corpus,Wikipedia
+The Galactica Corpus,arXiv
+Galactica,The Galactica Corpus
+OPT,RoBERTa dataset
+OPT,The Pile
+OPT,PushShift.io Reddit
+Make-A-Video dataset,LAION-5B
+Make-A-Video dataset,WebVid-10M
+Make-A-Video dataset,HD-VILA-100M
+Make-A-Video,Make-A-Video dataset
+LLaMA,CommonCrawl
+LLaMA,C4
+LLaMA,Github
+LLaMA,Wikipedia
+LLaMA,BooksCorpus
+LLaMA,arXiv
+LLaMA,StackExchange
+OPT-IML,OPT
+OPT-IML,OPT-IML Bench
+SAM,SA-1B
+MusicGen,Meta Music Initative Sound Collection
+MusicGen,Shutterstock music collection
+MusicGen,Pond5 music collection
+AudioGen,AudioSet
+AudioGen,BBC sound effects
+AudioGen,AudioCaps
+AudioGen,Clotho v2
+AudioGen,VGG-Sound
+AudioGen,FSD50K
+AudioGen,Free To Use Sounds
+AudioGen,Sonniss Game Effects
+AudioGen,WeSoundEffects
+AudioGen,Paramount Motion - Odeon Cinematic Sound Effects
+Emu,CLIP
+Emu,T5
+Code LLaMA,Llama 2
+Emu Video,Emu
+Emu Video,CLIP
+Emu Video,T5
+Emu Edit,Emu
+Emu Edit,CLIP
+Emu Edit,T5
+MetaCLIP,Common Crawl
+HyperWrite,OpenAI API
+Midm,AI-HUB dataset
+Midm,National Institute of Korean Language dataset
+Anthropic Helpfulness dataset,Anthropic Human Feedback Interface
+Anthropic Harmlessness dataset,Anthropic Human Feedback Interface
+Anthropic RLHF models,Anthropic Harmlessness dataset
+Anthropic RLHF models,Anthropic Helpfulness dataset
+Anthropic Human Feedback Interface,Anthropic RLHF models
+Anthropic API,Claude
+Anthropic API,Claude Instant
+Claude 2,Claude human feedback data
+Claude 2,Unknown licensed third party datasets
+Claude for Sheets,Anthropic API
+xP3,P3
+T0++,T5
+T0++,P3
+BLOOM,ROOTS
+mT0,mT5
+mT0,xP3
+BLOOMZ,BLOOM
+BLOOMZ,xP3
+CausalLM,Qwen
+CausalLM,OpenOrca
+CausalLM,Open Platypus
+Bain Chat,ChatGPT API
+SauerkrautLM,OpenHermes 2.5 Mistral
+SauerkrautLM,OpenOrca Mistral
+Transformify Automate,GPT-4
+Palmyra,Writer dataset
+Camel,Palmyra
+Camel,Camel dataset
+Dolly,GPT-J
+Dolly,Alpaca dataset
+Vicuna,LLaMA
+Vicuna,ShareGPT conversations data
+RakutenAI,Mistral
+AI DJ,ChatGPT API
+AI DJ,Sonantic AI
+Koala,LLaMA
+Koala,web-scraped dialogue data
+Gorilla,LLaMA
+Gorilla,Gorilla document retriever
+OpenLLaMA,RedPajama
+Poe,ChatGPT API
+Poe,GPT-4 API
+Poe,Claude API
+Poe,Dragonfly API
+Poe,Sage API
+Notion AI,Anthropic API
+Deepseek Chat,Deepseek
+Falcon-40B,RefinedWeb
+Falcon-180B,RefinedWeb
+My AI for Snapchat,ChatGPT API
+Brex Chat,ChatGPT API
+LAION-400M,CLIP
+LAION-400M,CommonCrawl
+LAION-5B,CLIP
+LAION-5B,mCLIP
+LAION-5B,CommonCrawl
+LAION-2B-en,CLIP
+LAION-2B-en,LAION-5B
+OpenFlamingo,LLaMA
+OpenFlamingo,CLIP
+SALMONN,Whisper
+SALMONN,BEATs
+SALMONN,Vicuna
+SDXL-Lightning,Stable Diffusion XL
+VLMo,Conceptual Captions
+VLMo,SBU Captions
+VLMo,COCO
+VLMo,Visual Genome
+VLMo,Wikipedia
+VLMo,BooksCorpus
+Megatron-Turing NLG,The Pile
+GitHub CoPilot,Codex
+BioGPT,PubMed
+Bing Search,ChatGPT API
+KOSMOS-1,The Pile
+KOSMOS-1,CommonCrawl
+KOSMOS-1,LAION-2B-en
+KOSMOS-1,LAION-400M
+KOSMOS-1,COYO-700M
+KOSMOS-1,Conceptual Captions
+Florence,FLD-900M
+Azure Cognitive Services for Vision,Florence
+VisualChatGPT,OpenAI API
+Microsoft 365 Copilot,GPT-4 API
+Microsoft Business Chat,Microsoft 365 Copilot
+Microsoft Excel,Microsoft 365 Copilot
+Microsoft Outlook,Microsoft 365 Copilot
+Microsoft Power Platform,Microsoft 365 Copilot
+Microsoft PowerPoint,Microsoft 365 Copilot
+Microsoft Teams,Microsoft 365 Copilot
+Microsoft Teams,Microsoft Business Chat
+Microsoft Word,Microsoft 365 Copilot
+Microsoft Security Copilot,GPT-4
+Microsoft Security Copilot,Microsoft security-specific model
+BEiT-3,Multiway Transformer network
+WizardLM,LLaMA
+WizardLM,Evol-Instruct
+WizardLM,Alpaca dataset
+WizardCoder,Evol-Instruct
+WizardCoder,Alpaca dataset
+WizardCoder,StarCoder
+Florence-2,FLD-5B
+OpenOrca,GPT-3.5
+OpenOrca,GPT-4
+OpenOrca,Flan Collection
+LlongOrca,OpenOrca
+LlongOrca,LLongMA-2
+Phi-1.5,phi-1
+Orca 2,LLaMA 2
+TigerBot,Llama 2
+TigerBot,BLOOM
+Cohere Base,coheretext
+Cohere Command,Cohere Base
+Cohere API,Cohere Generate Endpoint
+Cohere API,Cohere Embed Endpoint
+Cohere API,Cohere Classify Endpoint
+Cohere API,Cohere Summarize Endpoint
+Cohere Generate Endpoint,Cohere Base
+Cohere Generate Endpoint,Cohere Command
+Cohere Embed Endpoint,Cohere Embed (Multilingual)
+Cohere Embed Endpoint,Cohere Embed (English)
+Cohere Classify Endpoint,Cohere Embed (Multilingual)
+Cohere Classify Endpoint,Cohere Embed (English)
+Aya,mT5
+Aya,Aya Dataset
+Speak,Whisper API
+BioMedLM,The Pile
+RoentGen,Stable Diffusion
+RoentGen,RoentGen radiology dataset
+CORGI,GPT-2
+CORGI,BABEL
+CORGI,text-davinci-003
+Alpaca dataset,text-davinci-003
+Alpaca,LLaMa
+Alpaca,Alpaca dataset
+AutoMathText,OpenWebMath
+AutoMathText,RedPajama-Data
+AutoMathText,Algebraic Stack
+AutoMathText,Qwen
+Nous Hermes 2,Mixtral
+YaRN LLaMA 2,LLaMA 2
+Nous Capybara,Yi
+YaRN Mistral,Mistral
+OpenHermes 2.5 Mistral,Mistral
+Hermes 2 Pro-Mistral,Mistral
+Hermes 2 Pro-Mistral,OpenHermes 2.5 Dataset
+Hermes 2 Pro-Mistral,Nous Hermes 2
+MineDojo,YouTube
+MineDojo,Wikipedia
+MineDojo,Reddit
+VIMA dataset,T5
+VIMA dataset,Mask R-CNN
+VIMA dataset,VIMA dataset
+BigTrans,LLaMA
+BigTrans,CLUE
+BigTrans,BigTrans parallel dataset
+YaLM,The Pile
+YaLM,Yandex Russian Pretraining Dataset
+Yandex Search,YaLM
+Continue,GPT-4 API
+Continue,Code Llama
+Continue,Claude API
+Continue,WizardCoder
+Continue,PaLM API
+GOAT,LLaMA
+GOAT,GOAT dataset
+OpenMoE,RedPajama
+OpenMoE,The Stack
+Wu Dao 2.0,Wu Dao dataset
+JudgeLM,Vicuna
+JudgeLM,JudgeLM Dataset
+JudgeLM Dataset,Alpaca
+JudgeLM Dataset,GPT-4
+JudgeLM Dataset,Dolly
+JudgeLM Dataset,ShareGPT
+JudgeLM Dataset,LLaMA
+JudgeLM Dataset,Vicuna
+EVA-CLIP,CLIP
+Luminous,Luminous dataset
+Aleph Alpha API,Luminous
+MAGMA,GPT-J
+MAGMA,CLIP
+Robin AI,Anthropic API
+Juni Tutor Bot,Anthropic API
+LAION-1B,LAION-5B
+Composer,ImageNet
+Composer,WebVision
+Composer,LAION-1B
+SeaLLM v2.5,Gemma
+OpenWebMath,Common Crawl
+SambaLingo,Llama 2
+Samba 1,Llama 2
+Samba 1,Mistral
+Samba 1,Falcon-180B
+Samba 1,Deepseek
+Samba 1,BLOOM
+Samba 1,LLaVA
+Samba 1,CLIP
+LP-MusicCaps,MusicCaps
+LP-MusicCaps,Million Song Dataset
+LP-MusicCaps,Magnatagtune
+SciPhi Mistral,Mistral
+Notus,UltraFeedback
+Notus,Zephyr
+Amber,Arxiv
+Amber,Books
+Amber,C4
+Amber,RefinedWeb
+Amber,StarCoder
+Amber,StackExchange
+Amber,Wikipedia
+CrystalCoder,SlimPajama
+CrystalCoder,StarCoder
+Duolingo Explain My Answer,GPT-4 API
+Duolingo Max,Duolingo Role Play
+Duolingo Max,Duolingo Explain My Answer
+Duolingo Role Play,GPT-4 API
