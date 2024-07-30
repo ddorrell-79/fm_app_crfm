@@ -30,6 +30,7 @@ G.remove_nodes_from(orphaned_nodes)
 
 # Prepare the Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # App layout
 app.layout = html.Div([
