@@ -29,7 +29,7 @@ orphaned_nodes = [node for node, degree in G.degree() if degree == 0]
 G.remove_nodes_from(orphaned_nodes)
 
 # Prepare the Dash app
-app = dash.Dash(__name__)
+app = dash.Dash(__name__, external_stylesheets=['/assets/styles.css'])
 server = app.server
 
 # App layout
