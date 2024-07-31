@@ -29,14 +29,14 @@ orphaned_nodes = [node for node, degree in G.degree() if degree == 0]
 G.remove_nodes_from(orphaned_nodes)
 
 # Prepare the Dash app
-app = dash.Dash(__name__, external_stylesheets=https://github.com/ddorrell-79/fm_app_crfm/blob/main/styles.css)
+app = dash.Dash(__name__, external_stylesheets=['https://raw.githubusercontent.com/ddorrell-79/fm_app_crfm/main/Assets/styles.css'])
 server = app.server
 
 # App layout
 app.layout = html.Div([
     # Top bar with logo and description
     html.Div([
-        html.Img(https://github.com/ddorrell-79/fm_app_crfm/blob/main/frontierlogothin.png, style={'height': '50px', 'margin-right': '20px'}),
+        html.Img(src='https://raw.githubusercontent.com/ddorrell-79/fm_app_crfm/main/Assets/frontierlogothin.png', style={'height': '50px', 'margin-right': '20px'}),
         html.Div(id='node-description', style={'flex-grow': '1', 'text-align': 'right'}),
     ], style={'display': 'flex', 'align-items': 'center', 'justify-content': 'space-between', 'padding': '10px', 'border-bottom': '1px solid #ccc'}),
     
