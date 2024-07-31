@@ -73,18 +73,19 @@ app.layout = html.Div([
                         html.Span(style={'background-color': 'red', 'display': 'inline-block', 'width': '20px', 'height': '20px', 'margin-right': '5px'}),
                         html.Span("Application")
                     ], style={'display': 'flex', 'align-items': 'center', 'margin-bottom': '5px'}),
-                     html.Div([
+                    html.Div([
                         html.Span(style={'background-color': 'green', 'display': 'inline-block', 'width': '20px', 'height': '20px', 'margin-right': '5px'}),
-                        html.Span("Selected Nodes")
+                        html.Span("Nodes selected through the filters")
                     ], style={'display': 'flex', 'align-items': 'center', 'margin-bottom': '5px'}),
                 ])
             ], style={'margin-bottom': '20px', 'border-top': '1px solid #ccc', 'padding-top': '10px'}),
-            # Source Link
+            # Source Link and Disclaimer
             html.Div([
                 html.H4("Source", style={'text-align': 'left'}),
                 html.A("Original Data Source: Stanford Center for Research on Foundation Models", href="https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=graph", target="_blank"),
+                html.P("This data is opensource and we cannot guarantee its accuracy.", style={'font-size': '12px', 'color': 'gray', 'margin-top': '10px'})
             ], style={'margin-bottom': '20px', 'border-top': '1px solid #ccc', 'padding-top': '10px'})
-        ], style={'width': '250px', 'padding': '10px', 'border-right': '1px solid #ccc'}),
+        ], style={'width': '250px', 'min-width': '250px', 'padding': '10px', 'border-right': '1px solid #ccc', 'flex-shrink': '0'}),
         
         # Main content with Cytoscape graph
         html.Div([
