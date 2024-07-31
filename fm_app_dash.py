@@ -73,6 +73,10 @@ app.layout = html.Div([
                         html.Span(style={'background-color': 'red', 'display': 'inline-block', 'width': '20px', 'height': '20px', 'margin-right': '5px'}),
                         html.Span("Application")
                     ], style={'display': 'flex', 'align-items': 'center', 'margin-bottom': '5px'}),
+                     html.Div([
+                        html.Span(style={'background-color': 'green', 'display': 'inline-block', 'width': '20px', 'height': '20px', 'margin-right': '5px'}),
+                        html.Span("Selected Nodes")
+                    ], style={'display': 'flex', 'align-items': 'center', 'margin-bottom': '5px'}),
                 ])
             ], style={'margin-bottom': '20px', 'border-top': '1px solid #ccc', 'padding-top': '10px'}),
             # Source Link
